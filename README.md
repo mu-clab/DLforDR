@@ -7,8 +7,8 @@ Association Rules
 
 ## Article Publication Venues
 
-|Journal/Conference Name|Abbriviation|
-| ------------- | ------------- |
+|Journal/ Conference Name|Abbriviation|
+|:------------- |:------------- |
 |AAAI Conference on Artificial Intelligence|AAAI|
 |Advanced Engineering Informatics|AEI|
 |Applied Imagery Pattern Recognition Workshop|AIPr|
