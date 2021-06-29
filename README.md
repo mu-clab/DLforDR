@@ -1,9 +1,6 @@
 # DLforDR
 
-Contents
-Deep Learning: A Short Overview
-Data Extraction Form
-Association Rules
+This is an online appendix containing the full details of the literature analysis process of our DLforDR paper.
 
 ## Article Publication Venues
 
