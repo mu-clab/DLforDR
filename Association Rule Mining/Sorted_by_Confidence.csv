@@ -1,0 +1,961 @@
+,Items,Antecedent,Consequent,Support,Confidence,Lift
+281,"{'supervised', 'Disaster Related Information Filtering', 'CNN'}","{'Disaster Related Information Filtering', 'CNN'}",{'supervised'},0.13253012048192772,1.0,1.064102564102564
+274,"{'supervised', 'Disaster Related Information Classification', 'CNN'}","{'Disaster Related Information Classification', 'CNN'}",{'supervised'},0.12048192771084337,1.0,1.064102564102564
+372,"{'Web Mining', 'supervised', 'CNN'}","{'Web Mining', 'CNN'}",{'supervised'},0.12048192771084337,1.0,1.064102564102564
+393,"{'cross-entrophy', 'supervised', 'CNN'}","{'cross-entrophy', 'CNN'}",{'supervised'},0.1686746987951807,1.0,1.064102564102564
+805,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'Remote_sensing', 'supervised', 'CNN'}",{'image'},0.10843373493975904,1.0,2.2432432432432434
+744,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'Not Discussed', 'Remote_sensing', 'CNN'}",{'image'},0.10843373493975904,1.0,2.2432432432432434
+456,"{'Remote_sensing', 'Disaster Damage Assessment', 'image'}","{'Remote_sensing', 'Disaster Damage Assessment'}",{'image'},0.10843373493975904,1.0,2.2432432432432434
+429,"{'multimodal', 'Twitter', 'CrisisMMD'}","{'multimodal', 'CrisisMMD'}",{'Twitter'},0.10843373493975904,1.0,2.075
+819,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'cross-entrophy', 'Twitter', 'CNN'}",{'supervised'},0.10843373493975904,1.0,1.064102564102564
+834,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'multimodal', 'Twitter', 'CNN'}",{'supervised'},0.10843373493975904,1.0,1.064102564102564
+774,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'Not Discussed', 'Web database', 'CNN'}",{'supervised'},0.10843373493975904,1.0,1.064102564102564
+379,"{'Web database', 'supervised', 'CNN'}","{'Web database', 'CNN'}",{'supervised'},0.10843373493975904,1.0,1.064102564102564
+729,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'Disaster Related Information Classification', 'Twitter', 'CNN'}",{'supervised'},0.10843373493975904,1.0,1.064102564102564
+924,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', '-', 'image', 'CNN'}",{'supervised'},0.10843373493975904,1.0,1.064102564102564
+533,"{'Not Discussed', 'Web Mining', 'supervised'}","{'Not Discussed', 'Web Mining'}",{'supervised'},0.10843373493975904,1.0,1.064102564102564
+186,"{'cross-entrophy', 'supervised'}",{'cross-entrophy'},{'supervised'},0.24096385542168675,1.0,1.064102564102564
+769,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'Web database', 'CNN'}","{'Not Discussed', 'supervised'}",0.10843373493975904,1.0,1.509090909090909
+776,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'Web database', 'supervised', 'CNN'}",{'Not Discussed'},0.10843373493975904,1.0,1.3833333333333333
+303,"{'Not Discussed', 'Web database', 'CNN'}","{'Web database', 'CNN'}",{'Not Discussed'},0.10843373493975904,1.0,1.3833333333333333
+386,"{'accuracy', 'supervised', 'CNN'}","{'accuracy', 'CNN'}",{'supervised'},0.12048192771084337,1.0,1.064102564102564
+153,"{'Remote_sensing', 'image'}",{'Remote_sensing'},{'image'},0.1566265060240964,1.0,2.2432432432432434
+654,"{'supervised', '-', 'image', 'CNN'}","{'-', 'image', 'CNN'}",{'supervised'},0.12048192771084337,1.0,1.064102564102564
+589,"{'cross-entrophy', 'supervised', 'Twitter'}","{'cross-entrophy', 'Twitter'}",{'supervised'},0.1566265060240964,1.0,1.064102564102564
+583,"{'Remote_sensing', 'supervised', 'image'}","{'Remote_sensing', 'supervised'}",{'image'},0.13253012048192772,1.0,2.2432432432432434
+239,"{'supervised', '-', 'image'}","{'-', 'image'}",{'supervised'},0.14457831325301204,1.0,1.064102564102564
+639,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'Not Discussed', '-', 'CNN'}",{'supervised'},0.13253012048192772,1.0,1.064102564102564
+436,"{'supervised', 'Twitter', 'CrisisMMD'}","{'supervised', 'CrisisMMD'}",{'Twitter'},0.13253012048192772,1.0,2.075
+78,"{'Twitter', 'CrisisMMD'}",{'CrisisMMD'},{'Twitter'},0.14457831325301204,1.0,2.075
+407,"{'multimodal', 'supervised', 'CNN'}","{'multimodal', 'CNN'}",{'supervised'},0.14457831325301204,1.0,1.064102564102564
+183,"{'accuracy', 'supervised'}",{'accuracy'},{'supervised'},0.1566265060240964,1.0,1.064102564102564
+330,"{'Remote_sensing', 'image', 'CNN'}","{'Remote_sensing', 'CNN'}",{'image'},0.12048192771084337,1.0,2.2432432432432434
+959,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}",{'CNN'},0.1566265060240964,1.0,1.4310344827586206
+669,"{'Not Discussed', 'supervised', '-', 'image'}","{'Not Discussed', '-', 'image'}",{'supervised'},0.12048192771084337,1.0,1.064102564102564
+505,"{'Not Discussed', 'Remote_sensing', 'image'}","{'Not Discussed', 'Remote_sensing'}",{'image'},0.12048192771084337,1.0,2.2432432432432434
+218,"{'supervised', '-', 'CNN'}","{'-', 'CNN'}",{'supervised'},0.1566265060240964,1.0,1.064102564102564
+177,"{'Web Mining', 'supervised'}",{'Web Mining'},{'supervised'},0.1566265060240964,1.0,1.064102564102564
+547,"{'Not Discussed', 'supervised', 'accuracy'}","{'Not Discussed', 'accuracy'}",{'supervised'},0.12048192771084337,1.0,1.064102564102564
+99,"{'supervised', 'Disaster Event Detection'}",{'Disaster Event Detection'},{'supervised'},0.12048192771084337,1.0,1.064102564102564
+777,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'Not Discussed', 'supervised', 'Web database'}",{'CNN'},0.10843373493975904,1.0,1.4310344827586206
+400,"{'supervised', 'image', 'CNN'}","{'image', 'CNN'}",{'supervised'},0.3614457831325301,0.967741935483871,1.0297766749379653
+72,"{'supervised', 'CNN'}",{'CNN'},{'supervised'},0.6746987951807228,0.9655172413793103,1.0274093722369584
+792,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'supervised', 'image'}",{'CNN'},0.27710843373493976,0.9583333333333334,1.3714080459770115
+358,"{'supervised', 'Twitter', 'CNN'}","{'Twitter', 'CNN'}",{'supervised'},0.27710843373493976,0.9583333333333334,1.0197649572649572
+789,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'image', 'CNN'}",{'supervised'},0.27710843373493976,0.9583333333333334,1.0197649572649572
+323,"{'Not Discussed', 'supervised', 'CNN'}","{'Not Discussed', 'CNN'}",{'supervised'},0.4819277108433735,0.9523809523809524,1.0134310134310134
+260,"{'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Disaster Damage Assessment', 'CNN'}",{'supervised'},0.24096385542168675,0.9523809523809524,1.0134310134310134
+117,"{'supervised', 'Disaster Related Information Filtering'}",{'Disaster Related Information Filtering'},{'supervised'},0.21686746987951808,0.9473684210526316,1.008097165991903
+189,"{'supervised', 'image'}",{'image'},{'supervised'},0.42168674698795183,0.945945945945946,1.0065835065835067
+195,"{'supervised', 'precision, recall, f1-score'}","{'precision, recall, f1-score'}",{'supervised'},0.20481927710843373,0.9444444444444444,1.0049857549857548
+192,"{'multimodal', 'supervised'}",{'multimodal'},{'supervised'},0.20481927710843373,0.9444444444444444,1.0049857549857548
+714,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'image', 'CNN'}",{'supervised'},0.1927710843373494,0.9411764705882354,1.0015082956259427
+18,{'supervised'},set(),{'supervised'},0.9397590361445783,0.9397590361445783,1.0
+699,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",{'supervised'},0.18072289156626506,0.9375,0.9975961538461539
+687,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'image'}",{'CNN'},0.1686746987951807,0.9333333333333332,1.3356321839080458
+108,"{'supervised', 'Disaster Related Information Classification'}",{'Disaster Related Information Classification'},{'supervised'},0.1686746987951807,0.9333333333333332,0.9931623931623931
+759,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'Not Discussed', 'Twitter', 'CNN'}",{'supervised'},0.1566265060240964,0.9285714285714287,0.9880952380952382
+596,"{'multimodal', 'supervised', 'Twitter'}","{'multimodal', 'Twitter'}",{'supervised'},0.1566265060240964,0.9285714285714287,0.9880952380952382
+498,"{'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'Disaster Related Information Filtering', 'Twitter'}",{'supervised'},0.1566265060240964,0.9285714285714287,0.9880952380952382
+955,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}",{'supervised'},0.1566265060240964,0.9285714285714287,0.9880952380952382
+171,"{'supervised', 'Twitter'}",{'Twitter'},{'supervised'},0.4457831325301205,0.9249999999999999,0.9842948717948717
+414,"{'supervised', 'precision, recall, f1-score', 'CNN'}","{'precision, recall, f1-score', 'CNN'}",{'supervised'},0.14457831325301204,0.923076923076923,0.9822485207100591
+96,"{'Disaster Damage Assessment', 'supervised'}",{'Disaster Damage Assessment'},{'supervised'},0.2891566265060241,0.923076923076923,0.9822485207100591
+491,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}","{'Not Discussed', 'Disaster Related Information Filtering'}",{'supervised'},0.14457831325301204,0.923076923076923,0.9822485207100591
+311,"{'Not Discussed', 'image', 'CNN'}","{'Not Discussed', 'image'}",{'CNN'},0.2891566265060241,0.923076923076923,1.3209549071618036
+554,"{'Not Discussed', 'supervised', 'image'}","{'Not Discussed', 'image'}",{'supervised'},0.2891566265060241,0.923076923076923,0.9822485207100591
+568,"{'Not Discussed', 'supervised', 'precision, recall, f1-score'}","{'Not Discussed', 'precision, recall, f1-score'}",{'supervised'},0.14457831325301204,0.923076923076923,0.9822485207100591
+561,"{'Not Discussed', 'multimodal', 'supervised'}","{'Not Discussed', 'multimodal'}",{'supervised'},0.14457831325301204,0.923076923076923,0.9822485207100591
+84,"{'supervised', 'CrisisMMD'}",{'CrisisMMD'},{'supervised'},0.13253012048192772,0.9166666666666667,0.9754273504273505
+435,"{'supervised', 'Twitter', 'CrisisMMD'}","{'Twitter', 'CrisisMMD'}",{'supervised'},0.13253012048192772,0.9166666666666667,0.9754273504273505
+432,"{'supervised', 'Twitter', 'CrisisMMD'}",{'CrisisMMD'},"{'supervised', 'Twitter'}",0.13253012048192772,0.9166666666666667,2.0563063063063067
+477,"{'supervised', 'Disaster Related Information Classification', 'Twitter'}","{'Disaster Related Information Classification', 'Twitter'}",{'supervised'},0.13253012048192772,0.9166666666666667,0.9754273504273505
+147,"{'Not Discussed', 'supervised'}",{'Not Discussed'},{'supervised'},0.6626506024096386,0.9166666666666667,0.9754273504273505
+470,"{'Not Discussed', 'supervised', 'Disaster Related Information Classification'}","{'Not Discussed', 'Disaster Related Information Classification'}",{'supervised'},0.12048192771084337,0.9090909090909091,0.9673659673659672
+199,"{'supervised', 'text'}",{'text'},{'supervised'},0.24096385542168675,0.9090909090909091,0.9673659673659672
+133,"{'Not Discussed', 'Web database'}",{'Web database'},{'Not Discussed'},0.12048192771084337,0.9090909090909091,1.2575757575757576
+180,"{'Web database', 'supervised'}",{'Web database'},{'supervised'},0.12048192771084337,0.9090909090909091,0.9673659673659672
+603,"{'supervised', 'precision, recall, f1-score', 'Twitter'}","{'precision, recall, f1-score', 'Twitter'}",{'supervised'},0.12048192771084337,0.9090909090909091,0.9673659673659672
+422,"{'supervised', 'text', 'CNN'}","{'text', 'CNN'}",{'supervised'},0.10843373493975904,0.9,0.9576923076923077
+917,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', '-', 'image'}","{'supervised', 'CNN'}",0.10843373493975904,0.9,1.3339285714285716
+289,"{'Not Discussed', 'Remote_sensing', 'CNN'}","{'Remote_sensing', 'CNN'}",{'Not Discussed'},0.10843373493975904,0.9,1.245
+366,"{'Twitter', 'text', 'CNN'}","{'text', 'CNN'}",{'Twitter'},0.10843373493975904,0.9,1.8675000000000002
+267,"{'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'Disaster Related Information Classification', 'CNN'}",{'Twitter'},0.10843373493975904,0.9,1.8675000000000002
+160,"{'Twitter API', 'Twitter'}",{'Twitter API'},{'Twitter'},0.10843373493975904,0.9,1.8675000000000002
+542,"{'Not Discussed', 'supervised', 'Web database'}","{'Web database', 'supervised'}",{'Not Discussed'},0.10843373493975904,0.9,1.245
+730,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'supervised', 'Disaster Related Information Classification', 'CNN'}",{'Twitter'},0.10843373493975904,0.9,1.8675000000000002
+381,"{'Web database', 'supervised', 'CNN'}","{'Web database', 'supervised'}",{'CNN'},0.10843373493975904,0.9,1.2879310344827586
+723,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'Disaster Related Information Classification', 'CNN'}","{'supervised', 'Twitter'}",0.10843373493975904,0.9,2.018918918918919
+927,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'supervised', '-', 'image'}",{'CNN'},0.10843373493975904,0.9,1.2879310344827586
+798,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'Remote_sensing', 'CNN'}","{'supervised', 'image'}",0.10843373493975904,0.9,2.1342857142857143
+463,"{'Disaster Damage Assessment', 'supervised', 'image'}","{'Disaster Damage Assessment', 'image'}",{'supervised'},0.21686746987951808,0.9,0.9576923076923077
+290,"{'Not Discussed', 'Remote_sensing', 'CNN'}","{'Not Discussed', 'Remote_sensing'}",{'CNN'},0.10843373493975904,0.9,1.2879310344827586
+739,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'Remote_sensing', 'CNN'}","{'Not Discussed', 'image'}",0.10843373493975904,0.9,2.873076923076923
+915,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'-', 'image', 'CNN'}","{'Not Discussed', 'supervised'}",0.10843373493975904,0.9,1.3581818181818182
+741,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'Not Discussed', 'Remote_sensing'}","{'image', 'CNN'}",0.10843373493975904,0.9,2.4096774193548387
+337,"{'Remote_sensing', 'supervised', 'CNN'}","{'Remote_sensing', 'CNN'}",{'supervised'},0.10843373493975904,0.9,0.9576923076923077
+625,"{'Not Discussed', '-', 'image', 'CNN'}","{'-', 'image', 'CNN'}",{'Not Discussed'},0.10843373493975904,0.9,1.245
+926,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'supervised', '-', 'image', 'CNN'}",{'Not Discussed'},0.10843373493975904,0.9,1.245
+804,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'Remote_sensing', 'image', 'CNN'}",{'supervised'},0.10843373493975904,0.9,0.9576923076923077
+773,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'Web database', 'supervised'}","{'Not Discussed', 'CNN'}",0.10843373493975904,0.9,1.7785714285714287
+771,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'Not Discussed', 'Web database'}","{'supervised', 'CNN'}",0.10843373493975904,0.9,1.3339285714285716
+864,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}",{'supervised'},0.10843373493975904,0.9,0.9576923076923077
+304,"{'Not Discussed', 'Web database', 'CNN'}","{'Not Discussed', 'Web database'}",{'CNN'},0.10843373493975904,0.9,1.2879310344827586
+746,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'Remote_sensing', 'image', 'CNN'}",{'Not Discussed'},0.10843373493975904,0.9,1.245
+879,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'Not Discussed', 'multimodal', 'Twitter'}",{'supervised'},0.10843373493975904,0.9,0.9576923076923077
+540,"{'Not Discussed', 'supervised', 'Web database'}","{'Not Discussed', 'Web database'}",{'supervised'},0.10843373493975904,0.9,0.9576923076923077
+747,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'Not Discussed', 'Remote_sensing', 'image'}",{'CNN'},0.10843373493975904,0.9,1.2879310344827586
+626,"{'Not Discussed', '-', 'image', 'CNN'}","{'Not Discussed', '-', 'image'}",{'CNN'},0.10843373493975904,0.9,1.2879310344827586
+449,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}","{'Not Discussed', 'Disaster Damage Assessment'}",{'supervised'},0.20481927710843373,0.8947368421052632,0.9520917678812415
+611,"{'supervised', 'Twitter', 'text'}","{'Twitter', 'text'}",{'supervised'},0.20481927710843373,0.8947368421052632,0.9520917678812415
+30,"{'supervised', '-'}",{'-'},{'supervised'},0.20481927710843373,0.8947368421052632,0.9520917678812415
+717,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'supervised', 'image'}",{'CNN'},0.1927710843373494,0.888888888888889,1.2720306513409962
+786,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'image'}","{'supervised', 'CNN'}",0.27710843373493976,0.8846153846153846,1.3111263736263736
+519,"{'Not Discussed', 'supervised', 'Twitter'}","{'Not Discussed', 'Twitter'}",{'supervised'},0.27710843373493976,0.8846153846153846,0.9413214990138067
+576,"{'Not Discussed', 'supervised', 'text'}","{'Not Discussed', 'text'}",{'supervised'},0.18072289156626506,0.8823529411764706,0.9389140271493213
+702,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",{'CNN'},0.18072289156626506,0.8823529411764706,1.2626774847870181
+684,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",{'image'},0.1686746987951807,0.8749999999999999,1.9628378378378377
+951,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'image'}","{'supervised', 'CNN'}",0.1566265060240964,0.8666666666666667,1.2845238095238096
+956,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}",{'image'},0.1566265060240964,0.8666666666666667,1.9441441441441443
+232,"{'Not Discussed', 'supervised', '-'}","{'Not Discussed', '-'}",{'supervised'},0.1566265060240964,0.8666666666666667,0.9222222222222223
+849,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'Not Discussed', 'Disaster Damage Assessment', 'image'}",{'supervised'},0.1566265060240964,0.8666666666666667,0.9222222222222223
+175,"{'Twitter', 'text'}",{'text'},{'Twitter'},0.2289156626506024,0.8636363636363635,1.7920454545454543
+895,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'Not Discussed', 'Twitter', 'text'}",{'supervised'},0.14457831325301204,0.8571428571428572,0.9120879120879122
+402,"{'supervised', 'image', 'CNN'}","{'supervised', 'image'}",{'CNN'},0.3614457831325301,0.8571428571428571,1.2266009852216748
+612,"{'supervised', 'Twitter', 'text'}","{'supervised', 'text'}",{'Twitter'},0.20481927710843373,0.85,1.76375
+255,"{'Disaster Damage Assessment', 'image', 'CNN'}","{'Disaster Damage Assessment', 'image'}",{'CNN'},0.20481927710843373,0.85,1.2163793103448275
+582,"{'Remote_sensing', 'supervised', 'image'}","{'Remote_sensing', 'image'}",{'supervised'},0.13253012048192772,0.8461538461538461,0.9003944773175542
+579,"{'Remote_sensing', 'supervised', 'image'}",{'Remote_sensing'},"{'supervised', 'image'}",0.13253012048192772,0.8461538461538461,2.0065934065934066
+641,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'Not Discussed', 'supervised', '-'}",{'CNN'},0.13253012048192772,0.8461538461538461,1.2108753315649867
+204,"{'Not Discussed', '-', 'CNN'}","{'-', 'CNN'}",{'Not Discussed'},0.13253012048192772,0.8461538461538461,1.1705128205128206
+640,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'supervised', '-', 'CNN'}",{'Not Discussed'},0.13253012048192772,0.8461538461538461,1.1705128205128206
+156,"{'Remote_sensing', 'supervised'}",{'Remote_sensing'},{'supervised'},0.13253012048192772,0.8461538461538461,0.9003944773175542
+633,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'-', 'CNN'}","{'Not Discussed', 'supervised'}",0.13253012048192772,0.8461538461538461,1.2769230769230768
+248,"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment'}",{'CNN'},0.1927710843373494,0.8421052631578948,1.2050816696914701
+64,"{'image', 'CNN'}",{'image'},{'CNN'},0.37349397590361444,0.8378378378378378,1.1989748369058713
+212,"{'-', 'image', 'CNN'}","{'-', 'image'}",{'CNN'},0.12048192771084337,0.8333333333333334,1.1925287356321839
+671,"{'Not Discussed', 'supervised', '-', 'image'}","{'supervised', '-', 'image'}",{'Not Discussed'},0.12048192771084337,0.8333333333333334,1.152777777777778
+664,"{'Not Discussed', 'supervised', '-', 'image'}","{'-', 'image'}","{'Not Discussed', 'supervised'}",0.12048192771084337,0.8333333333333334,1.2575757575757576
+262,"{'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Disaster Damage Assessment', 'supervised'}",{'CNN'},0.24096385542168675,0.8333333333333334,1.1925287356321839
+649,"{'supervised', '-', 'image', 'CNN'}","{'-', 'image'}","{'supervised', 'CNN'}",0.12048192771084337,0.8333333333333334,1.2351190476190477
+656,"{'supervised', '-', 'image', 'CNN'}","{'supervised', '-', 'image'}",{'CNN'},0.12048192771084337,0.8333333333333334,1.1925287356321839
+226,"{'Not Discussed', '-', 'image'}","{'-', 'image'}",{'Not Discussed'},0.12048192771084337,0.8333333333333334,1.152777777777778
+527,"{'Not Discussed', 'Twitter', 'text'}","{'Not Discussed', 'text'}",{'Twitter'},0.1686746987951807,0.8235294117647058,1.7088235294117646
+685,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'Disaster Damage Assessment', 'image', 'CNN'}",{'Not Discussed'},0.1686746987951807,0.8235294117647058,1.1392156862745098
+807,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'Remote_sensing', 'supervised', 'image'}",{'CNN'},0.10843373493975904,0.8181818181818181,1.170846394984326
+624,"{'Not Discussed', '-', 'image', 'CNN'}","{'Not Discussed', '-', 'CNN'}",{'image'},0.10843373493975904,0.8181818181818181,1.8353808353808352
+339,"{'Remote_sensing', 'supervised', 'CNN'}","{'Remote_sensing', 'supervised'}",{'CNN'},0.10843373493975904,0.8181818181818181,1.170846394984326
+925,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'supervised', '-', 'CNN'}",{'image'},0.10843373493975904,0.8181818181818181,1.8353808353808352
+377,"{'Web database', 'supervised', 'CNN'}",{'Web database'},"{'supervised', 'CNN'}",0.10843373493975904,0.8181818181818181,1.2126623376623376
+538,"{'Not Discussed', 'supervised', 'Web database'}",{'Web database'},"{'Not Discussed', 'supervised'}",0.10843373493975904,0.8181818181818181,1.2347107438016527
+914,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', '-', 'CNN'}","{'supervised', 'image'}",0.10843373493975904,0.8181818181818181,1.94025974025974
+766,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}",{'Web database'},"{'Not Discussed', 'supervised', 'CNN'}",0.10843373493975904,0.8181818181818181,1.6977272727272725
+732,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'supervised', 'Disaster Related Information Classification', 'Twitter'}",{'CNN'},0.10843373493975904,0.8181818181818181,1.170846394984326
+802,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'Remote_sensing', 'supervised'}","{'image', 'CNN'}",0.10843373493975904,0.8181818181818181,2.190615835777126
+55,"{'Web database', 'CNN'}",{'Web database'},{'CNN'},0.10843373493975904,0.8181818181818181,1.170846394984326
+301,"{'Not Discussed', 'Web database', 'CNN'}",{'Web database'},"{'Not Discussed', 'CNN'}",0.10843373493975904,0.8181818181818181,1.6168831168831168
+957,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'Not Discussed'},0.1566265060240964,0.8125,1.1239583333333334
+945,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}","{'supervised', 'image'}",0.1566265060240964,0.8125,1.926785714285714
+398,"{'supervised', 'image', 'CNN'}",{'image'},"{'supervised', 'CNN'}",0.3614457831325301,0.8108108108108109,1.201737451737452
+253,"{'Disaster Damage Assessment', 'image', 'CNN'}","{'Disaster Damage Assessment', 'CNN'}",{'image'},0.20481927710843373,0.8095238095238095,1.815958815958816
+34,"{'Disaster Damage Assessment', 'CNN'}",{'Disaster Damage Assessment'},{'CNN'},0.25301204819277107,0.8076923076923076,1.1558355437665782
+711,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'image'}","{'supervised', 'CNN'}",0.1927710843373494,0.8,1.185714285714286
+715,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'supervised', 'CNN'}",{'image'},0.1927710843373494,0.8,1.7945945945945947
+896,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'Not Discussed', 'supervised', 'text'}",{'Twitter'},0.14457831325301204,0.7999999999999999,1.66
+105,"{'Disaster Related Information Classification', 'Twitter'}",{'Disaster Related Information Classification'},{'Twitter'},0.14457831325301204,0.7999999999999999,1.66
+24,"{'Not Discussed', '-'}",{'-'},{'Not Discussed'},0.18072289156626506,0.7894736842105263,1.0921052631578947
+442,"{'Not Discussed', 'Disaster Damage Assessment', 'image'}","{'Not Discussed', 'Disaster Damage Assessment'}",{'image'},0.18072289156626506,0.7894736842105263,1.770981507823613
+696,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment'}","{'supervised', 'CNN'}",0.18072289156626506,0.7894736842105263,1.1701127819548873
+478,"{'supervised', 'Disaster Related Information Classification', 'Twitter'}","{'supervised', 'Disaster Related Information Classification'}",{'Twitter'},0.13253012048192772,0.7857142857142858,1.630357142857143
+166,"{'multimodal', 'Twitter'}",{'multimodal'},{'Twitter'},0.1686746987951807,0.7777777777777777,1.6138888888888887
+310,"{'Not Discussed', 'image', 'CNN'}","{'image', 'CNN'}",{'Not Discussed'},0.2891566265060241,0.7741935483870968,1.070967741935484
+609,"{'supervised', 'Twitter', 'text'}",{'text'},"{'supervised', 'Twitter'}",0.20481927710843373,0.7727272727272726,1.733415233415233
+151,"{'Not Discussed', 'text'}",{'text'},{'Not Discussed'},0.20481927710843373,0.7727272727272726,1.0689393939393939
+374,"{'Web Mining', 'supervised', 'CNN'}","{'Web Mining', 'supervised'}",{'CNN'},0.12048192771084337,0.7692307692307692,1.1007957559681696
+332,"{'Remote_sensing', 'image', 'CNN'}","{'Remote_sensing', 'image'}",{'CNN'},0.12048192771084337,0.7692307692307692,1.1007957559681696
+549,"{'Not Discussed', 'supervised', 'accuracy'}","{'accuracy', 'supervised'}",{'Not Discussed'},0.12048192771084337,0.7692307692307692,1.064102564102564
+124,"{'Not Discussed', 'Remote_sensing'}",{'Remote_sensing'},{'Not Discussed'},0.12048192771084337,0.7692307692307692,1.064102564102564
+513,"{'Not Discussed', 'multimodal', 'Twitter'}","{'Not Discussed', 'multimodal'}",{'Twitter'},0.12048192771084337,0.7692307692307692,1.596153846153846
+670,"{'Not Discussed', 'supervised', '-', 'image'}","{'Not Discussed', 'supervised', '-'}",{'image'},0.12048192771084337,0.7692307692307692,1.7255717255717256
+46,"{'Remote_sensing', 'CNN'}",{'Remote_sensing'},{'CNN'},0.12048192771084337,0.7692307692307692,1.1007957559681696
+545,"{'Not Discussed', 'supervised', 'accuracy'}",{'accuracy'},"{'Not Discussed', 'supervised'}",0.12048192771084337,0.7692307692307692,1.1608391608391606
+507,"{'Not Discussed', 'Remote_sensing', 'image'}","{'Remote_sensing', 'image'}",{'Not Discussed'},0.12048192771084337,0.7692307692307692,1.064102564102564
+211,"{'-', 'image', 'CNN'}","{'-', 'CNN'}",{'image'},0.12048192771084337,0.7692307692307692,1.7255717255717256
+136,"{'Not Discussed', 'accuracy'}",{'accuracy'},{'Not Discussed'},0.12048192771084337,0.7692307692307692,1.064102564102564
+655,"{'supervised', '-', 'image', 'CNN'}","{'supervised', '-', 'CNN'}",{'image'},0.12048192771084337,0.7692307692307692,1.7255717255717256
+370,"{'Web Mining', 'supervised', 'CNN'}",{'Web Mining'},"{'supervised', 'CNN'}",0.12048192771084337,0.7692307692307692,1.14010989010989
+52,"{'Web Mining', 'CNN'}",{'Web Mining'},{'CNN'},0.12048192771084337,0.7692307692307692,1.1007957559681696
+388,"{'accuracy', 'supervised', 'CNN'}","{'accuracy', 'supervised'}",{'CNN'},0.12048192771084337,0.7692307692307692,1.1007957559681696
+58,"{'accuracy', 'CNN'}",{'accuracy'},{'CNN'},0.12048192771084337,0.7692307692307692,1.1007957559681696
+384,"{'accuracy', 'supervised', 'CNN'}",{'accuracy'},"{'supervised', 'CNN'}",0.12048192771084337,0.7692307692307692,1.14010989010989
+648,"{'supervised', '-', 'image', 'CNN'}","{'-', 'CNN'}","{'supervised', 'image'}",0.12048192771084337,0.7692307692307692,1.824175824175824
+484,"{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}","{'Not Discussed', 'Disaster Related Information Filtering'}",{'Twitter'},0.12048192771084337,0.7692307692307692,1.596153846153846
+258,"{'Disaster Damage Assessment', 'supervised', 'CNN'}",{'Disaster Damage Assessment'},"{'supervised', 'CNN'}",0.24096385542168675,0.7692307692307692,1.14010989010989
+328,"{'Remote_sensing', 'image', 'CNN'}",{'Remote_sensing'},"{'image', 'CNN'}",0.12048192771084337,0.7692307692307692,2.0595533498759306
+503,"{'Not Discussed', 'Remote_sensing', 'image'}",{'Remote_sensing'},"{'Not Discussed', 'image'}",0.12048192771084337,0.7692307692307692,2.455621301775148
+93,"{'Disaster Damage Assessment', 'image'}",{'Disaster Damage Assessment'},{'image'},0.24096385542168675,0.7692307692307692,1.7255717255717256
+791,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'supervised', 'image', 'CNN'}",{'Not Discussed'},0.27710843373493976,0.7666666666666667,1.0605555555555557
+219,"{'supervised', '-', 'CNN'}","{'supervised', '-'}",{'CNN'},0.1566265060240964,0.7647058823529412,1.094320486815416
+598,"{'multimodal', 'supervised', 'Twitter'}","{'multimodal', 'supervised'}",{'Twitter'},0.1566265060240964,0.7647058823529412,1.586764705882353
+946,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'image', 'CNN'}","{'Not Discussed', 'supervised'}",0.1566265060240964,0.7647058823529412,1.1540106951871658
+233,"{'Not Discussed', 'supervised', '-'}","{'supervised', '-'}",{'Not Discussed'},0.1566265060240964,0.7647058823529412,1.057843137254902
+952,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}","{'image', 'CNN'}",0.1566265060240964,0.7647058823529412,2.0474383301707784
+850,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",{'image'},0.1566265060240964,0.7647058823529412,1.715421303656598
+246,"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}","{'Disaster Damage Assessment', 'CNN'}",{'Not Discussed'},0.1927710843373494,0.761904761904762,1.053968253968254
+708,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'CNN'}","{'supervised', 'image'}",0.1927710843373494,0.761904761904762,1.8068027210884354
+865,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}",{'Twitter'},0.10843373493975904,0.75,1.55625
+352,"{'multimodal', 'Twitter', 'CNN'}","{'multimodal', 'CNN'}",{'Twitter'},0.10843373493975904,0.75,1.55625
+836,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'multimodal', 'supervised', 'CNN'}",{'Twitter'},0.10843373493975904,0.75,1.55625
+829,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'multimodal', 'CNN'}","{'supervised', 'Twitter'}",0.10843373493975904,0.75,1.6824324324324325
+81,"{'multimodal', 'CrisisMMD'}",{'CrisisMMD'},{'multimodal'},0.10843373493975904,0.75,3.4583333333333335
+726,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'Disaster Related Information Classification', 'Twitter'}","{'supervised', 'CNN'}",0.10843373493975904,0.75,1.111607142857143
+906,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'-', 'image'}","{'Not Discussed', 'supervised', 'CNN'}",0.10843373493975904,0.75,1.55625
+620,"{'Not Discussed', '-', 'image', 'CNN'}","{'-', 'image'}","{'Not Discussed', 'CNN'}",0.10843373493975904,0.75,1.4821428571428572
+425,"{'multimodal', 'Twitter', 'CrisisMMD'}",{'CrisisMMD'},"{'multimodal', 'Twitter'}",0.10843373493975904,0.75,4.446428571428572
+881,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'Not Discussed', 'multimodal', 'supervised'}",{'Twitter'},0.10843373493975904,0.75,1.55625
+428,"{'multimodal', 'Twitter', 'CrisisMMD'}","{'Twitter', 'CrisisMMD'}",{'multimodal'},0.10843373493975904,0.75,3.4583333333333335
+700,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Disaster Damage Assessment', 'supervised', 'CNN'}",{'Not Discussed'},0.18072289156626506,0.75,1.0375
+443,"{'Not Discussed', 'Disaster Damage Assessment', 'image'}","{'Disaster Damage Assessment', 'image'}",{'Not Discussed'},0.18072289156626506,0.75,1.0375
+577,"{'Not Discussed', 'supervised', 'text'}","{'supervised', 'text'}",{'Not Discussed'},0.18072289156626506,0.75,1.0375
+269,"{'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'Disaster Related Information Classification', 'Twitter'}",{'CNN'},0.10843373493975904,0.75,1.0732758620689655
+919,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'supervised', '-', 'image'}","{'Not Discussed', 'CNN'}",0.10843373493975904,0.75,1.4821428571428572
+464,"{'Disaster Damage Assessment', 'supervised', 'image'}","{'Disaster Damage Assessment', 'supervised'}",{'image'},0.21686746987951808,0.75,1.6824324324324325
+784,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'image', 'CNN'}","{'Not Discussed', 'supervised'}",0.27710843373493976,0.7419354838709677,1.1196480938416422
+114,"{'Disaster Related Information Filtering', 'Twitter'}",{'Disaster Related Information Filtering'},{'Twitter'},0.1686746987951807,0.7368421052631579,1.5289473684210526
+528,"{'Not Discussed', 'Twitter', 'text'}","{'Twitter', 'text'}",{'Not Discussed'},0.1686746987951807,0.7368421052631579,1.0192982456140351
+681,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment'}","{'image', 'CNN'}",0.1686746987951807,0.7368421052631579,1.9728353140916808
+634,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'Not Discussed', '-'}","{'supervised', 'CNN'}",0.13253012048192772,0.7333333333333334,1.086904761904762
+102,"{'Not Discussed', 'Disaster Related Information Classification'}",{'Disaster Related Information Classification'},{'Not Discussed'},0.13253012048192772,0.7333333333333334,1.0144444444444445
+474,"{'supervised', 'Disaster Related Information Classification', 'Twitter'}",{'Disaster Related Information Classification'},"{'supervised', 'Twitter'}",0.13253012048192772,0.7333333333333334,1.6450450450450451
+205,"{'Not Discussed', '-', 'CNN'}","{'Not Discussed', '-'}",{'CNN'},0.13253012048192772,0.7333333333333334,1.049425287356322
+87,"{'Not Discussed', 'Disaster Damage Assessment'}",{'Disaster Damage Assessment'},{'Not Discussed'},0.2289156626506024,0.7307692307692307,1.0108974358974359
+325,"{'Not Discussed', 'supervised', 'CNN'}","{'Not Discussed', 'supervised'}",{'CNN'},0.4819277108433735,0.7272727272727273,1.0407523510971786
+42,"{'Not Discussed', 'CNN'}",{'CNN'},{'Not Discussed'},0.5060240963855421,0.7241379310344827,1.0017241379310344
+7,{'Not Discussed'},set(),{'Not Discussed'},0.7228915662650602,0.7228915662650602,1.0
+499,"{'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'supervised', 'Disaster Related Information Filtering'}",{'Twitter'},0.1566265060240964,0.7222222222222222,1.4986111111111111
+145,"{'Not Discussed', 'precision, recall, f1-score'}","{'precision, recall, f1-score'}",{'Not Discussed'},0.1566265060240964,0.7222222222222222,0.9990740740740741
+594,"{'multimodal', 'supervised', 'Twitter'}",{'multimodal'},"{'supervised', 'Twitter'}",0.1566265060240964,0.7222222222222222,1.62012012012012
+70,"{'precision, recall, f1-score', 'CNN'}","{'precision, recall, f1-score'}",{'CNN'},0.1566265060240964,0.7222222222222222,1.0335249042145593
+142,"{'Not Discussed', 'multimodal'}",{'multimodal'},{'Not Discussed'},0.1566265060240964,0.7222222222222222,0.9990740740740741
+851,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'Disaster Damage Assessment', 'supervised', 'image'}",{'Not Discussed'},0.1566265060240964,0.7222222222222222,0.9990740740740741
+953,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'supervised', 'image'}","{'Not Discussed', 'CNN'}",0.1566265060240964,0.7222222222222222,1.4272486772486774
+73,"{'supervised', 'CNN'}",{'supervised'},{'CNN'},0.6746987951807228,0.7179487179487178,1.0274093722369582
+324,"{'Not Discussed', 'supervised', 'CNN'}","{'supervised', 'CNN'}",{'Not Discussed'},0.4819277108433735,0.7142857142857143,0.9880952380952381
+485,"{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}","{'Disaster Related Information Filtering', 'Twitter'}",{'Not Discussed'},0.12048192771084337,0.7142857142857143,0.9880952380952381
+276,"{'supervised', 'Disaster Related Information Classification', 'CNN'}","{'supervised', 'Disaster Related Information Classification'}",{'CNN'},0.12048192771084337,0.7142857142857143,1.022167487684729
+471,"{'Not Discussed', 'supervised', 'Disaster Related Information Classification'}","{'supervised', 'Disaster Related Information Classification'}",{'Not Discussed'},0.12048192771084337,0.7142857142857143,0.9880952380952381
+514,"{'Not Discussed', 'multimodal', 'Twitter'}","{'multimodal', 'Twitter'}",{'Not Discussed'},0.12048192771084337,0.7142857142857143,0.9880952380952381
+693,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Disaster Damage Assessment', 'CNN'}","{'Not Discussed', 'supervised'}",0.18072289156626506,0.7142857142857143,1.077922077922078
+450,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}","{'Disaster Damage Assessment', 'supervised'}",{'Not Discussed'},0.20481927710843373,0.7083333333333334,0.9798611111111112
+890,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'Not Discussed', 'text'}","{'supervised', 'Twitter'}",0.14457831325301204,0.7058823529411765,1.5834658187599366
+240,"{'supervised', '-', 'image'}","{'supervised', '-'}",{'image'},0.14457831325301204,0.7058823529411765,1.5834658187599366
+409,"{'multimodal', 'supervised', 'CNN'}","{'multimodal', 'supervised'}",{'CNN'},0.14457831325301204,0.7058823529411765,1.0101419878296147
+570,"{'Not Discussed', 'supervised', 'precision, recall, f1-score'}","{'supervised', 'precision, recall, f1-score'}",{'Not Discussed'},0.14457831325301204,0.7058823529411765,0.9764705882352942
+416,"{'supervised', 'precision, recall, f1-score', 'CNN'}","{'supervised', 'precision, recall, f1-score'}",{'CNN'},0.14457831325301204,0.7058823529411765,1.0101419878296147
+897,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'supervised', 'Twitter', 'text'}",{'Not Discussed'},0.14457831325301204,0.7058823529411765,0.9764705882352942
+563,"{'Not Discussed', 'multimodal', 'supervised'}","{'multimodal', 'supervised'}",{'Not Discussed'},0.14457831325301204,0.7058823529411765,0.9764705882352942
+148,"{'Not Discussed', 'supervised'}",{'supervised'},{'Not Discussed'},0.6626506024096386,0.7051282051282052,0.9754273504273505
+139,"{'Not Discussed', 'image'}",{'image'},{'Not Discussed'},0.3132530120481928,0.7027027027027027,0.9720720720720721
+61,"{'cross-entrophy', 'CNN'}",{'cross-entrophy'},{'CNN'},0.1686746987951807,0.7,1.0017241379310344
+395,"{'cross-entrophy', 'supervised', 'CNN'}","{'cross-entrophy', 'supervised'}",{'CNN'},0.1686746987951807,0.7,1.0017241379310344
+391,"{'cross-entrophy', 'supervised', 'CNN'}",{'cross-entrophy'},"{'supervised', 'CNN'}",0.1686746987951807,0.7,1.0375
+682,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'Disaster Damage Assessment', 'image'}","{'Not Discussed', 'CNN'}",0.1686746987951807,0.7,1.3833333333333333
+43,"{'Not Discussed', 'CNN'}",{'Not Discussed'},{'CNN'},0.5060240963855421,0.7,1.0017241379310344
+1,{'CNN'},set(),{'CNN'},0.6987951807228916,0.6987951807228916,1.0
+795,"{'Remote_sensing', 'supervised', 'image', 'CNN'}",{'Remote_sensing'},"{'supervised', 'image', 'CNN'}",0.10843373493975904,0.6923076923076923,1.9153846153846152
+822,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'cross-entrophy', 'supervised', 'Twitter'}",{'CNN'},0.10843373493975904,0.6923076923076923,0.9907161803713527
+837,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'multimodal', 'supervised', 'Twitter'}",{'CNN'},0.10843373493975904,0.6923076923076923,0.9907161803713527
+335,"{'Remote_sensing', 'supervised', 'CNN'}",{'Remote_sensing'},"{'supervised', 'CNN'}",0.10843373493975904,0.6923076923076923,1.0260989010989012
+618,"{'Not Discussed', '-', 'image', 'CNN'}","{'-', 'CNN'}","{'Not Discussed', 'image'}",0.10843373493975904,0.6923076923076923,2.210059171597633
+460,"{'Disaster Damage Assessment', 'supervised', 'image'}",{'Disaster Damage Assessment'},"{'supervised', 'image'}",0.21686746987951808,0.6923076923076923,1.6417582417582417
+858,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'Not Discussed', 'Disaster Related Information Filtering'}","{'supervised', 'Twitter'}",0.10843373493975904,0.6923076923076923,1.553014553014553
+801,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'Remote_sensing', 'image'}","{'supervised', 'CNN'}",0.10843373493975904,0.6923076923076923,1.0260989010989012
+531,"{'Not Discussed', 'Web Mining', 'supervised'}",{'Web Mining'},"{'Not Discussed', 'supervised'}",0.10843373493975904,0.6923076923076923,1.0447552447552446
+918,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'supervised', '-'}","{'image', 'CNN'}",0.10843373493975904,0.6923076923076923,1.8535980148883375
+287,"{'Not Discussed', 'Remote_sensing', 'CNN'}",{'Remote_sensing'},"{'Not Discussed', 'CNN'}",0.10843373493975904,0.6923076923076923,1.3681318681318682
+535,"{'Not Discussed', 'Web Mining', 'supervised'}","{'Web Mining', 'supervised'}",{'Not Discussed'},0.10843373493975904,0.6923076923076923,0.9576923076923076
+318,"{'Not Discussed', 'precision, recall, f1-score', 'CNN'}","{'Not Discussed', 'precision, recall, f1-score'}",{'CNN'},0.10843373493975904,0.6923076923076923,0.9907161803713527
+736,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}",{'Remote_sensing'},"{'Not Discussed', 'image', 'CNN'}",0.10843373493975904,0.6923076923076923,2.394230769230769
+904,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'-', 'CNN'}","{'Not Discussed', 'supervised', 'image'}",0.10843373493975904,0.6923076923076923,2.394230769230769
+743,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'Remote_sensing', 'image'}","{'Not Discussed', 'CNN'}",0.10843373493975904,0.6923076923076923,1.3681318681318682
+874,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'Not Discussed', 'multimodal'}","{'supervised', 'Twitter'}",0.10843373493975904,0.6923076923076923,1.553014553014553
+882,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'multimodal', 'supervised', 'Twitter'}",{'Not Discussed'},0.10843373493975904,0.6923076923076923,0.9576923076923076
+91,"{'Remote_sensing', 'Disaster Damage Assessment'}",{'Remote_sensing'},{'Disaster Damage Assessment'},0.10843373493975904,0.6923076923076923,2.210059171597633
+454,"{'Remote_sensing', 'Disaster Damage Assessment', 'image'}",{'Remote_sensing'},"{'Disaster Damage Assessment', 'image'}",0.10843373493975904,0.6923076923076923,2.873076923076923
+346,"{'cross-entrophy', 'Twitter', 'CNN'}","{'cross-entrophy', 'Twitter'}",{'CNN'},0.10843373493975904,0.6923076923076923,0.9907161803713527
+916,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'supervised', '-', 'CNN'}","{'Not Discussed', 'image'}",0.10843373493975904,0.6923076923076923,2.210059171597633
+816,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'cross-entrophy', 'Twitter'}","{'supervised', 'CNN'}",0.10843373493975904,0.6923076923076923,1.0260989010989012
+130,"{'Not Discussed', 'Web Mining'}",{'Web Mining'},{'Not Discussed'},0.10843373493975904,0.6923076923076923,0.9576923076923076
+866,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'supervised', 'Disaster Related Information Filtering', 'Twitter'}",{'Not Discussed'},0.10843373493975904,0.6923076923076923,0.9576923076923076
+317,"{'Not Discussed', 'precision, recall, f1-score', 'CNN'}","{'precision, recall, f1-score', 'CNN'}",{'Not Discussed'},0.10843373493975904,0.6923076923076923,0.9576923076923076
+458,"{'Remote_sensing', 'Disaster Damage Assessment', 'image'}","{'Remote_sensing', 'image'}",{'Disaster Damage Assessment'},0.10843373493975904,0.6923076923076923,2.210059171597633
+320,"{'Not Discussed', 'supervised', 'CNN'}",{'CNN'},"{'Not Discussed', 'supervised'}",0.4819277108433735,0.689655172413793,1.0407523510971786
+556,"{'Not Discussed', 'supervised', 'image'}","{'supervised', 'image'}",{'Not Discussed'},0.2891566265060241,0.6857142857142856,0.9485714285714284
+939,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment'}","{'supervised', 'image', 'CNN'}",0.1566265060240964,0.6842105263157895,1.892982456140351
+843,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'Not Discussed', 'Disaster Damage Assessment'}","{'supervised', 'image'}",0.1566265060240964,0.6842105263157895,1.6225563909774436
+229,"{'Not Discussed', 'supervised', '-'}",{'-'},"{'Not Discussed', 'supervised'}",0.1566265060240964,0.6842105263157895,1.0325358851674642
+21,"{'-', 'CNN'}",{'-'},{'CNN'},0.1566265060240964,0.6842105263157895,0.9791288566243194
+495,"{'supervised', 'Disaster Related Information Filtering', 'Twitter'}",{'Disaster Related Information Filtering'},"{'supervised', 'Twitter'}",0.1566265060240964,0.6842105263157895,1.534850640113798
+215,"{'supervised', '-', 'CNN'}",{'-'},"{'supervised', 'CNN'}",0.1566265060240964,0.6842105263157895,1.0140977443609023
+111,"{'Not Discussed', 'Disaster Related Information Filtering'}",{'Disaster Related Information Filtering'},{'Not Discussed'},0.1566265060240964,0.6842105263157895,0.9464912280701755
+574,"{'Not Discussed', 'supervised', 'text'}",{'text'},"{'Not Discussed', 'supervised'}",0.18072289156626506,0.6818181818181818,1.0289256198347105
+71,"{'supervised', 'CNN'}",set(),"{'supervised', 'CNN'}",0.6746987951807228,0.6746987951807228,1.0
+712,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'supervised'}","{'image', 'CNN'}",0.1927710843373494,0.6666666666666667,1.78494623655914
+321,"{'Not Discussed', 'supervised', 'CNN'}",{'Not Discussed'},"{'supervised', 'CNN'}",0.4819277108433735,0.6666666666666666,0.9880952380952381
+566,"{'Not Discussed', 'supervised', 'precision, recall, f1-score'}","{'precision, recall, f1-score'}","{'Not Discussed', 'supervised'}",0.14457831325301204,0.6666666666666666,1.0060606060606059
+225,"{'Not Discussed', '-', 'image'}","{'Not Discussed', '-'}",{'image'},0.12048192771084337,0.6666666666666666,1.4954954954954955
+405,"{'multimodal', 'supervised', 'CNN'}",{'multimodal'},"{'supervised', 'CNN'}",0.14457831325301204,0.6666666666666666,0.9880952380952381
+678,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'Disaster Damage Assessment', 'CNN'}","{'Not Discussed', 'image'}",0.1686746987951807,0.6666666666666666,2.128205128205128
+467,"{'Not Discussed', 'supervised', 'Disaster Related Information Classification'}",{'Disaster Related Information Classification'},"{'Not Discussed', 'supervised'}",0.12048192771084337,0.6666666666666666,1.0060606060606059
+67,"{'multimodal', 'CNN'}",{'multimodal'},{'CNN'},0.14457831325301204,0.6666666666666666,0.9540229885057471
+272,"{'supervised', 'Disaster Related Information Classification', 'CNN'}",{'Disaster Related Information Classification'},"{'supervised', 'CNN'}",0.12048192771084337,0.6666666666666666,0.9880952380952381
+37,"{'Disaster Related Information Classification', 'CNN'}",{'Disaster Related Information Classification'},{'CNN'},0.12048192771084337,0.6666666666666666,0.9540229885057471
+492,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}","{'supervised', 'Disaster Related Information Filtering'}",{'Not Discussed'},0.14457831325301204,0.6666666666666666,0.9222222222222222
+412,"{'supervised', 'precision, recall, f1-score', 'CNN'}","{'precision, recall, f1-score'}","{'supervised', 'CNN'}",0.14457831325301204,0.6666666666666666,0.9880952380952381
+559,"{'Not Discussed', 'multimodal', 'supervised'}",{'multimodal'},"{'Not Discussed', 'supervised'}",0.14457831325301204,0.6666666666666666,1.0060606060606059
+663,"{'Not Discussed', 'supervised', '-', 'image'}","{'Not Discussed', '-'}","{'supervised', 'image'}",0.12048192771084337,0.6666666666666666,1.5809523809523807
+146,"{'Not Discussed', 'supervised'}",set(),"{'Not Discussed', 'supervised'}",0.6626506024096386,0.6626506024096386,1.0
+788,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'supervised', 'image'}","{'Not Discussed', 'CNN'}",0.27710843373493976,0.6571428571428571,1.298639455782313
+251,"{'Disaster Damage Assessment', 'image', 'CNN'}",{'Disaster Damage Assessment'},"{'image', 'CNN'}",0.20481927710843373,0.6538461538461539,1.750620347394541
+446,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",{'Disaster Damage Assessment'},"{'Not Discussed', 'supervised'}",0.20481927710843373,0.6538461538461539,0.9867132867132867
+940,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'image'}","{'Not Discussed', 'supervised', 'CNN'}",0.1566265060240964,0.65,1.3487500000000001
+591,"{'cross-entrophy', 'supervised', 'Twitter'}","{'cross-entrophy', 'supervised'}",{'Twitter'},0.1566265060240964,0.65,1.3487500000000001
+163,"{'cross-entrophy', 'Twitter'}",{'cross-entrophy'},{'Twitter'},0.1566265060240964,0.65,1.3487500000000001
+587,"{'cross-entrophy', 'supervised', 'Twitter'}",{'cross-entrophy'},"{'supervised', 'Twitter'}",0.1566265060240964,0.65,1.4581081081081082
+947,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Not Discussed', 'image'}",0.1566265060240964,0.65,2.075
+844,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'Disaster Damage Assessment', 'image'}","{'Not Discussed', 'supervised'}",0.1566265060240964,0.65,0.980909090909091
+127,"{'Not Discussed', 'Twitter'}",{'Twitter'},{'Not Discussed'},0.3132530120481928,0.65,0.8991666666666667
+308,"{'Not Discussed', 'image', 'CNN'}",{'image'},"{'Not Discussed', 'CNN'}",0.2891566265060241,0.6486486486486487,1.281853281853282
+552,"{'Not Discussed', 'supervised', 'image'}",{'image'},"{'Not Discussed', 'supervised'}",0.2891566265060241,0.6486486486486487,0.9788697788697789
+635,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'supervised', '-'}","{'Not Discussed', 'CNN'}",0.13253012048192772,0.6470588235294118,1.2787114845938377
+345,"{'cross-entrophy', 'Twitter', 'CNN'}","{'cross-entrophy', 'CNN'}",{'Twitter'},0.10843373493975904,0.6428571428571429,1.3339285714285716
+831,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'multimodal', 'Twitter'}","{'supervised', 'CNN'}",0.10843373493975904,0.6428571428571429,0.9528061224489798
+353,"{'multimodal', 'Twitter', 'CNN'}","{'multimodal', 'Twitter'}",{'CNN'},0.10843373493975904,0.6428571428571429,0.9199507389162562
+814,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'cross-entrophy', 'CNN'}","{'supervised', 'Twitter'}",0.10843373493975904,0.6428571428571429,1.4420849420849422
+876,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'multimodal', 'Twitter'}","{'Not Discussed', 'supervised'}",0.10843373493975904,0.6428571428571429,0.9701298701298702
+859,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'Disaster Related Information Filtering', 'Twitter'}","{'Not Discussed', 'supervised'}",0.10843373493975904,0.6428571428571429,0.9701298701298702
+430,"{'multimodal', 'Twitter', 'CrisisMMD'}","{'multimodal', 'Twitter'}",{'CrisisMMD'},0.10843373493975904,0.6428571428571429,4.446428571428572
+821,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'cross-entrophy', 'supervised', 'CNN'}",{'Twitter'},0.10843373493975904,0.6428571428571429,1.3339285714285716
+727,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'supervised', 'Disaster Related Information Classification'}","{'Twitter', 'CNN'}",0.10843373493975904,0.6428571428571429,2.223214285714286
+525,"{'Not Discussed', 'Twitter', 'text'}",{'text'},"{'Not Discussed', 'Twitter'}",0.1686746987951807,0.6363636363636362,2.0314685314685312
+488,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}",{'Disaster Related Information Filtering'},"{'Not Discussed', 'supervised'}",0.14457831325301204,0.631578947368421,0.9531100478468899
+236,"{'supervised', '-', 'image'}",{'-'},"{'supervised', 'image'}",0.14457831325301204,0.631578947368421,1.4977443609022554
+892,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'Twitter', 'text'}","{'Not Discussed', 'supervised'}",0.14457831325301204,0.631578947368421,0.9531100478468899
+27,"{'-', 'image'}",{'-'},{'image'},0.14457831325301204,0.631578947368421,1.4167852062588904
+697,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Disaster Damage Assessment', 'supervised'}","{'Not Discussed', 'CNN'}",0.18072289156626506,0.625,1.2351190476190477
+521,"{'Not Discussed', 'supervised', 'Twitter'}","{'supervised', 'Twitter'}",{'Not Discussed'},0.27710843373493976,0.6216216216216216,0.8599099099099099
+360,"{'supervised', 'Twitter', 'CNN'}","{'supervised', 'Twitter'}",{'CNN'},0.27710843373493976,0.6216216216216216,0.8895619757688723
+781,"{'Not Discussed', 'supervised', 'image', 'CNN'}",{'image'},"{'Not Discussed', 'supervised', 'CNN'}",0.27710843373493976,0.6216216216216216,1.2898648648648647
+935,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'CNN'}","{'Not Discussed', 'supervised', 'image'}",0.1566265060240964,0.6190476190476191,2.1408730158730163
+705,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'Disaster Damage Assessment'},"{'supervised', 'image', 'CNN'}",0.1927710843373494,0.6153846153846154,1.7025641025641027
+244,"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",{'Disaster Damage Assessment'},"{'Not Discussed', 'CNN'}",0.1927710843373494,0.6153846153846154,1.2161172161172162
+283,"{'supervised', 'Disaster Related Information Filtering', 'CNN'}","{'supervised', 'Disaster Related Information Filtering'}",{'CNN'},0.13253012048192772,0.6111111111111112,0.8745210727969349
+169,"{'precision, recall, f1-score', 'Twitter'}","{'precision, recall, f1-score'}",{'Twitter'},0.13253012048192772,0.6111111111111112,1.2680555555555557
+893,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'supervised', 'text'}","{'Not Discussed', 'Twitter'}",0.14457831325301204,0.6,1.9153846153846152
+619,"{'Not Discussed', '-', 'image', 'CNN'}","{'Not Discussed', '-'}","{'image', 'CNN'}",0.10843373493975904,0.6,1.6064516129032258
+720,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}",{'Disaster Related Information Classification'},"{'supervised', 'Twitter', 'CNN'}",0.10843373493975904,0.6,2.1652173913043478
+905,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', '-'}","{'supervised', 'image', 'CNN'}",0.10843373493975904,0.6,1.66
+265,"{'Disaster Related Information Classification', 'Twitter', 'CNN'}",{'Disaster Related Information Classification'},"{'Twitter', 'CNN'}",0.10843373493975904,0.6,2.075
+49,"{'Twitter', 'CNN'}",{'Twitter'},{'CNN'},0.2891566265060241,0.6,0.8586206896551724
+605,"{'supervised', 'precision, recall, f1-score', 'Twitter'}","{'supervised', 'precision, recall, f1-score'}",{'Twitter'},0.12048192771084337,0.5882352941176471,1.2205882352941178
+650,"{'supervised', '-', 'image', 'CNN'}","{'supervised', '-'}","{'image', 'CNN'}",0.12048192771084337,0.5882352941176471,1.5749525616698294
+665,"{'Not Discussed', 'supervised', '-', 'image'}","{'supervised', '-'}","{'Not Discussed', 'image'}",0.12048192771084337,0.5882352941176471,1.8778280542986425
+686,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'Not Discussed', 'image', 'CNN'}",{'Disaster Damage Assessment'},0.1686746987951807,0.5833333333333334,1.8621794871794872
+296,"{'Not Discussed', 'Twitter', 'CNN'}","{'Twitter', 'CNN'}",{'Not Discussed'},0.1686746987951807,0.5833333333333334,0.8069444444444445
+279,"{'supervised', 'Disaster Related Information Filtering', 'CNN'}",{'Disaster Related Information Filtering'},"{'supervised', 'CNN'}",0.13253012048192772,0.5789473684210527,0.8580827067669173
+629,"{'Not Discussed', 'supervised', '-', 'CNN'}",{'-'},"{'Not Discussed', 'supervised', 'CNN'}",0.13253012048192772,0.5789473684210527,1.2013157894736843
+201,"{'Not Discussed', '-', 'CNN'}",{'-'},"{'Not Discussed', 'CNN'}",0.13253012048192772,0.5789473684210527,1.1441102756892232
+40,"{'Disaster Related Information Filtering', 'CNN'}",{'Disaster Related Information Filtering'},{'CNN'},0.13253012048192772,0.5789473684210527,0.8284936479128857
+439,"{'Not Discussed', 'Disaster Damage Assessment', 'image'}",{'Disaster Damage Assessment'},"{'Not Discussed', 'image'}",0.18072289156626506,0.5769230769230769,1.8417159763313606
+444,"{'Not Discussed', 'Disaster Damage Assessment', 'image'}","{'Not Discussed', 'image'}",{'Disaster Damage Assessment'},0.18072289156626506,0.5769230769230769,1.8417159763313606
+690,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}",{'Disaster Damage Assessment'},"{'Not Discussed', 'supervised', 'CNN'}",0.18072289156626506,0.5769230769230769,1.1971153846153846
+517,"{'Not Discussed', 'supervised', 'Twitter'}",{'Twitter'},"{'Not Discussed', 'supervised'}",0.27710843373493976,0.5750000000000001,0.8677272727272728
+790,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'supervised', 'CNN'}",{'image'},0.27710843373493976,0.5750000000000001,1.289864864864865
+356,"{'supervised', 'Twitter', 'CNN'}",{'Twitter'},"{'supervised', 'CNN'}",0.27710843373493976,0.5750000000000001,0.852232142857143
+309,"{'Not Discussed', 'image', 'CNN'}","{'Not Discussed', 'CNN'}",{'image'},0.2891566265060241,0.5714285714285714,1.2818532818532817
+762,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'Not Discussed', 'supervised', 'Twitter'}",{'CNN'},0.1566265060240964,0.5652173913043478,0.8088455772113942
+761,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'supervised', 'Twitter', 'CNN'}",{'Not Discussed'},0.1566265060240964,0.5652173913043478,0.7818840579710145
+958,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'supervised', 'image', 'CNN'}",{'Disaster Damage Assessment'},0.1566265060240964,0.5652173913043478,1.8043478260869563
+511,"{'Not Discussed', 'multimodal', 'Twitter'}",{'multimodal'},"{'Not Discussed', 'Twitter'}",0.12048192771084337,0.5555555555555556,1.7735042735042734
+601,"{'supervised', 'precision, recall, f1-score', 'Twitter'}","{'precision, recall, f1-score'}","{'supervised', 'Twitter'}",0.12048192771084337,0.5555555555555556,1.2462462462462462
+254,"{'Disaster Damage Assessment', 'image', 'CNN'}","{'image', 'CNN'}",{'Disaster Damage Assessment'},0.20481927710843373,0.5483870967741935,1.7506203473945408
+783,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'CNN'}","{'supervised', 'image'}",0.27710843373493976,0.5476190476190477,1.2986394557823129
+887,"{'Not Discussed', 'supervised', 'Twitter', 'text'}",{'text'},"{'Not Discussed', 'supervised', 'Twitter'}",0.14457831325301204,0.5454545454545454,1.968379446640316
+754,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'Twitter', 'CNN'}","{'Not Discussed', 'supervised'}",0.1566265060240964,0.5416666666666667,0.8174242424242425
+948,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'image', 'CNN'}","{'Disaster Damage Assessment', 'supervised'}",0.1566265060240964,0.5416666666666667,1.8732638888888893
+941,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Disaster Damage Assessment', 'supervised'}","{'Not Discussed', 'image', 'CNN'}",0.1566265060240964,0.5416666666666667,1.8732638888888893
+852,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'Not Discussed', 'supervised', 'image'}",{'Disaster Damage Assessment'},0.1566265060240964,0.5416666666666667,1.7291666666666667
+845,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'Disaster Damage Assessment', 'supervised'}","{'Not Discussed', 'image'}",0.1566265060240964,0.5416666666666667,1.7291666666666667
+954,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'supervised', 'image'}","{'Disaster Damage Assessment', 'CNN'}",0.1566265060240964,0.5416666666666667,2.1408730158730163
+94,"{'Disaster Damage Assessment', 'image'}",{'image'},{'Disaster Damage Assessment'},0.24096385542168675,0.5405405405405406,1.7255717255717256
+297,"{'Not Discussed', 'Twitter', 'CNN'}","{'Not Discussed', 'Twitter'}",{'CNN'},0.1686746987951807,0.5384615384615384,0.7705570291777187
+526,"{'Not Discussed', 'Twitter', 'text'}","{'Not Discussed', 'Twitter'}",{'text'},0.1686746987951807,0.5384615384615384,2.0314685314685312
+683,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'Not Discussed', 'image'}","{'Disaster Damage Assessment', 'CNN'}",0.1686746987951807,0.5384615384615384,2.128205128205128
+675,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}",{'Disaster Damage Assessment'},"{'Not Discussed', 'image', 'CNN'}",0.1686746987951807,0.5384615384615384,1.8621794871794872
+401,"{'supervised', 'image', 'CNN'}","{'supervised', 'CNN'}",{'image'},0.3614457831325301,0.5357142857142857,1.2017374517374517
+63,"{'image', 'CNN'}",{'CNN'},{'image'},0.37349397590361444,0.5344827586206896,1.1989748369058713
+716,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'supervised', 'image', 'CNN'}",{'Disaster Damage Assessment'},0.1927710843373494,0.5333333333333333,1.7025641025641025
+907,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'supervised', '-'}","{'Not Discussed', 'image', 'CNN'}",0.10843373493975904,0.5294117647058824,1.8308823529411766
+833,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'multimodal', 'supervised'}","{'Twitter', 'CNN'}",0.10843373493975904,0.5294117647058824,1.8308823529411766
+878,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'multimodal', 'supervised'}","{'Not Discussed', 'Twitter'}",0.10843373493975904,0.5294117647058824,1.6900452488687783
+644,"{'supervised', '-', 'image', 'CNN'}",{'-'},"{'supervised', 'image', 'CNN'}",0.12048192771084337,0.5263157894736842,1.4561403508771928
+659,"{'Not Discussed', 'supervised', '-', 'image'}",{'-'},"{'Not Discussed', 'supervised', 'image'}",0.12048192771084337,0.5263157894736842,1.8201754385964912
+208,"{'-', 'image', 'CNN'}",{'-'},"{'image', 'CNN'}",0.12048192771084337,0.5263157894736842,1.4091680814940577
+222,"{'Not Discussed', '-', 'image'}",{'-'},"{'Not Discussed', 'image'}",0.12048192771084337,0.5263157894736842,1.6801619433198378
+481,"{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}",{'Disaster Related Information Filtering'},"{'Not Discussed', 'Twitter'}",0.12048192771084337,0.5263157894736842,1.6801619433198378
+894,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'Not Discussed', 'supervised', 'Twitter'}",{'text'},0.14457831325301204,0.5217391304347826,1.968379446640316
+397,"{'supervised', 'image', 'CNN'}",{'CNN'},"{'supervised', 'image'}",0.3614457831325301,0.5172413793103448,1.2266009852216746
+709,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'image', 'CNN'}","{'Disaster Damage Assessment', 'supervised'}",0.1927710843373494,0.5161290322580646,1.7849462365591402
+465,"{'Disaster Damage Assessment', 'supervised', 'image'}","{'supervised', 'image'}",{'Disaster Damage Assessment'},0.21686746987951808,0.5142857142857142,1.6417582417582415
+322,"{'Not Discussed', 'supervised', 'CNN'}",{'supervised'},"{'Not Discussed', 'CNN'}",0.4819277108433735,0.5128205128205128,1.0134310134310134
+41,"{'Not Discussed', 'CNN'}",set(),"{'Not Discussed', 'CNN'}",0.5060240963855421,0.5060240963855421,1.0
+315,"{'Not Discussed', 'precision, recall, f1-score', 'CNN'}","{'precision, recall, f1-score'}","{'Not Discussed', 'CNN'}",0.10843373493975904,0.5,0.9880952380952381
+871,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}",{'multimodal'},"{'Not Discussed', 'supervised', 'Twitter'}",0.10843373493975904,0.5,1.8043478260869565
+826,"{'multimodal', 'supervised', 'Twitter', 'CNN'}",{'multimodal'},"{'supervised', 'Twitter', 'CNN'}",0.10843373493975904,0.5,1.8043478260869565
+846,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'Not Discussed', 'image'}","{'Disaster Damage Assessment', 'supervised'}",0.1566265060240964,0.5,1.7291666666666667
+942,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'image'}","{'Disaster Damage Assessment', 'supervised', 'CNN'}",0.1566265060240964,0.5,2.075
+860,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'supervised', 'Disaster Related Information Filtering'}","{'Not Discussed', 'Twitter'}",0.10843373493975904,0.5,1.596153846153846
+931,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'Disaster Damage Assessment'},"{'Not Discussed', 'supervised', 'image', 'CNN'}",0.1566265060240964,0.5,1.8043478260869565
+756,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'Not Discussed', 'Twitter'}","{'supervised', 'CNN'}",0.1566265060240964,0.5,0.7410714285714286
+427,"{'multimodal', 'Twitter', 'CrisisMMD'}",{'multimodal'},"{'Twitter', 'CrisisMMD'}",0.10843373493975904,0.5,3.4583333333333335
+82,"{'multimodal', 'CrisisMMD'}",{'multimodal'},{'CrisisMMD'},0.10843373493975904,0.5,3.4583333333333335
+350,"{'multimodal', 'Twitter', 'CNN'}",{'multimodal'},"{'Twitter', 'CNN'}",0.10843373493975904,0.5,1.7291666666666667
+839,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}",{'Disaster Damage Assessment'},"{'Not Discussed', 'supervised', 'image'}",0.1566265060240964,0.5,1.7291666666666667
+461,"{'Disaster Damage Assessment', 'supervised', 'image'}",{'image'},"{'Disaster Damage Assessment', 'supervised'}",0.21686746987951808,0.4864864864864865,1.6824324324324327
+9,{'Twitter'},set(),{'Twitter'},0.4819277108433735,0.4819277108433735,1.0
+319,"{'Not Discussed', 'supervised', 'CNN'}",set(),"{'Not Discussed', 'supervised', 'CNN'}",0.4819277108433735,0.4819277108433735,1.0
+174,"{'Twitter', 'text'}",{'Twitter'},{'text'},0.2289156626506024,0.475,1.7920454545454543
+172,"{'supervised', 'Twitter'}",{'supervised'},{'Twitter'},0.4457831325301205,0.47435897435897434,0.9842948717948717
+614,"{'Not Discussed', '-', 'image', 'CNN'}",{'-'},"{'Not Discussed', 'image', 'CNN'}",0.10843373493975904,0.4736842105263158,1.6381578947368423
+120,"{'Disaster Related Information Filtering', 'text'}",{'Disaster Related Information Filtering'},{'text'},0.10843373493975904,0.4736842105263158,1.7870813397129186
+367,"{'Twitter', 'text', 'CNN'}","{'Twitter', 'text'}",{'CNN'},0.10843373493975904,0.4736842105263158,0.677858439201452
+854,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}",{'Disaster Related Information Filtering'},"{'Not Discussed', 'supervised', 'Twitter'}",0.10843373493975904,0.4736842105263158,1.7093821510297484
+899,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}",{'-'},"{'Not Discussed', 'supervised', 'image', 'CNN'}",0.10843373493975904,0.4736842105263158,1.7093821510297484
+888,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'Not Discussed', 'Twitter'}","{'supervised', 'text'}",0.14457831325301204,0.4615384615384615,1.9153846153846152
+610,"{'supervised', 'Twitter', 'text'}","{'supervised', 'Twitter'}",{'text'},0.20481927710843373,0.45945945945945943,1.733415233415233
+252,"{'Disaster Damage Assessment', 'image', 'CNN'}",{'image'},"{'Disaster Damage Assessment', 'CNN'}",0.20481927710843373,0.45945945945945943,1.815958815958816
+713,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'supervised', 'image'}","{'Disaster Damage Assessment', 'CNN'}",0.1927710843373494,0.45714285714285713,1.8068027210884354
+76,"{'text', 'CNN'}",{'text'},{'CNN'},0.12048192771084337,0.45454545454545453,0.6504702194357366
+680,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment'}",0.1686746987951807,0.45161290322580644,1.9728353140916808
+811,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}",{'cross-entrophy'},"{'supervised', 'Twitter', 'CNN'}",0.10843373493975904,0.45,1.623913043478261
+343,"{'cross-entrophy', 'Twitter', 'CNN'}",{'cross-entrophy'},"{'Twitter', 'CNN'}",0.10843373493975904,0.45,1.5562500000000001
+457,"{'Remote_sensing', 'Disaster Damage Assessment', 'image'}","{'Disaster Damage Assessment', 'image'}",{'Remote_sensing'},0.10843373493975904,0.45,2.873076923076923
+818,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'cross-entrophy', 'supervised'}","{'Twitter', 'CNN'}",0.10843373493975904,0.45,1.5562500000000001
+423,"{'supervised', 'text', 'CNN'}","{'supervised', 'text'}",{'CNN'},0.10843373493975904,0.45,0.6439655172413793
+190,"{'supervised', 'image'}",{'supervised'},{'image'},0.42168674698795183,0.44871794871794873,1.0065835065835067
+15,{'image'},set(),{'image'},0.4457831325301205,0.4457831325301205,1.0
+170,"{'supervised', 'Twitter'}",set(),"{'supervised', 'Twitter'}",0.4457831325301205,0.4457831325301205,1.0
+555,"{'Not Discussed', 'supervised', 'image'}","{'Not Discussed', 'supervised'}",{'image'},0.2891566265060241,0.43636363636363634,0.9788697788697789
+126,"{'Not Discussed', 'Twitter'}",{'Not Discussed'},{'Twitter'},0.3132530120481928,0.43333333333333335,0.8991666666666667
+138,"{'Not Discussed', 'image'}",{'Not Discussed'},{'image'},0.3132530120481928,0.43333333333333335,0.9720720720720721
+950,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'supervised', 'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment'}",0.1566265060240964,0.43333333333333335,1.892982456140351
+706,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'image'},"{'Disaster Damage Assessment', 'supervised', 'CNN'}",0.1927710843373494,0.43243243243243246,1.7945945945945947
+607,"{'supervised', 'Twitter', 'text'}",{'Twitter'},"{'supervised', 'text'}",0.20481927710843373,0.425,1.76375
+188,"{'supervised', 'image'}",set(),"{'supervised', 'image'}",0.42168674698795183,0.42168674698795183,1.0
+937,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'image', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",0.1566265060240964,0.41935483870967744,2.047438330170778
+520,"{'Not Discussed', 'supervised', 'Twitter'}","{'Not Discussed', 'supervised'}",{'Twitter'},0.27710843373493976,0.41818181818181815,0.8677272727272727
+787,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'supervised'}","{'image', 'CNN'}",0.27710843373493976,0.41818181818181815,1.1196480938416422
+672,"{'Not Discussed', 'supervised', '-', 'image'}","{'Not Discussed', 'supervised', 'image'}",{'-'},0.12048192771084337,0.4166666666666667,1.8201754385964914
+48,"{'Twitter', 'CNN'}",{'CNN'},{'Twitter'},0.2891566265060241,0.4137931034482758,0.8586206896551722
+306,"{'Not Discussed', 'image', 'CNN'}",{'CNN'},"{'Not Discussed', 'image'}",0.2891566265060241,0.4137931034482758,1.3209549071618034
+785,"{'Not Discussed', 'supervised', 'image', 'CNN'}","{'supervised', 'CNN'}","{'Not Discussed', 'image'}",0.27710843373493976,0.41071428571428575,1.3111263736263736
+359,"{'supervised', 'Twitter', 'CNN'}","{'supervised', 'CNN'}",{'Twitter'},0.27710843373493976,0.41071428571428575,0.852232142857143
+364,"{'Twitter', 'text', 'CNN'}",{'text'},"{'Twitter', 'CNN'}",0.10843373493975904,0.40909090909090906,1.4147727272727273
+121,"{'Disaster Related Information Filtering', 'text'}",{'text'},{'Disaster Related Information Filtering'},0.10843373493975904,0.40909090909090906,1.7870813397129186
+420,"{'supervised', 'text', 'CNN'}",{'text'},"{'supervised', 'CNN'}",0.10843373493975904,0.40909090909090906,0.6063311688311688
+441,"{'Not Discussed', 'Disaster Damage Assessment', 'image'}",{'image'},"{'Not Discussed', 'Disaster Damage Assessment'}",0.18072289156626506,0.40540540540540543,1.7709815078236133
+551,"{'Not Discussed', 'supervised', 'image'}",{'Not Discussed'},"{'supervised', 'image'}",0.2891566265060241,0.39999999999999997,0.9485714285714284
+307,"{'Not Discussed', 'image', 'CNN'}",{'Not Discussed'},"{'image', 'CNN'}",0.2891566265060241,0.39999999999999997,1.070967741935484
+779,"{'Not Discussed', 'supervised', 'image', 'CNN'}",{'CNN'},"{'Not Discussed', 'supervised', 'image'}",0.27710843373493976,0.39655172413793105,1.3714080459770117
+355,"{'supervised', 'Twitter', 'CNN'}",{'CNN'},"{'supervised', 'Twitter'}",0.27710843373493976,0.39655172413793105,0.8895619757688724
+928,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'supervised', 'image', 'CNN'}",{'-'},0.10843373493975904,0.391304347826087,1.7093821510297484
+835,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'supervised', 'Twitter', 'CNN'}",{'multimodal'},0.10843373493975904,0.391304347826087,1.8043478260869565
+880,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'Not Discussed', 'supervised', 'Twitter'}",{'multimodal'},0.10843373493975904,0.391304347826087,1.8043478260869565
+867,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'Not Discussed', 'supervised', 'Twitter'}",{'Disaster Related Information Filtering'},0.10843373493975904,0.391304347826087,1.7093821510297484
+731,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'supervised', 'Twitter', 'CNN'}",{'Disaster Related Information Classification'},0.10843373493975904,0.391304347826087,2.1652173913043478
+820,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'supervised', 'Twitter', 'CNN'}",{'cross-entrophy'},0.10843373493975904,0.391304347826087,1.623913043478261
+506,"{'Not Discussed', 'Remote_sensing', 'image'}","{'Not Discussed', 'image'}",{'Remote_sensing'},0.12048192771084337,0.3846153846153846,2.455621301775148
+512,"{'Not Discussed', 'multimodal', 'Twitter'}","{'Not Discussed', 'Twitter'}",{'multimodal'},0.12048192771084337,0.3846153846153846,1.7735042735042734
+227,"{'Not Discussed', '-', 'image'}","{'Not Discussed', 'image'}",{'-'},0.12048192771084337,0.3846153846153846,1.680161943319838
+486,"{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}","{'Not Discussed', 'Twitter'}",{'Disaster Related Information Filtering'},0.12048192771084337,0.3846153846153846,1.680161943319838
+399,"{'supervised', 'image', 'CNN'}",{'supervised'},"{'image', 'CNN'}",0.3614457831325301,0.3846153846153846,1.0297766749379653
+666,"{'Not Discussed', 'supervised', '-', 'image'}","{'Not Discussed', 'image'}","{'-', 'supervised'}",0.12048192771084337,0.3846153846153846,1.8778280542986425
+516,"{'Not Discussed', 'supervised', 'Twitter'}",{'Not Discussed'},"{'supervised', 'Twitter'}",0.27710843373493976,0.38333333333333336,0.85990990990991
+780,"{'Not Discussed', 'supervised', 'image', 'CNN'}",{'Not Discussed'},"{'supervised', 'image', 'CNN'}",0.27710843373493976,0.38333333333333336,1.0605555555555557
+247,"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}","{'Not Discussed', 'CNN'}",{'Disaster Damage Assessment'},0.1927710843373494,0.380952380952381,1.2161172161172162
+677,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}",{'image'},"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",0.1686746987951807,0.37837837837837834,1.9628378378378375
+365,"{'Twitter', 'text', 'CNN'}","{'Twitter', 'CNN'}",{'text'},0.10843373493975904,0.375,1.414772727272727
+813,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'Twitter', 'CNN'}","{'cross-entrophy', 'supervised'}",0.10843373493975904,0.375,1.55625
+351,"{'multimodal', 'Twitter', 'CNN'}","{'Twitter', 'CNN'}",{'multimodal'},0.10843373493975904,0.375,1.7291666666666667
+828,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'Twitter', 'CNN'}","{'multimodal', 'supervised'}",0.10843373493975904,0.375,1.8308823529411766
+627,"{'Not Discussed', '-', 'image', 'CNN'}","{'Not Discussed', 'image', 'CNN'}",{'-'},0.10843373493975904,0.375,1.6381578947368423
+344,"{'cross-entrophy', 'Twitter', 'CNN'}","{'Twitter', 'CNN'}",{'cross-entrophy'},0.10843373493975904,0.375,1.55625
+920,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'image', 'CNN'}","{'-', 'supervised'}",0.10843373493975904,0.375,1.8308823529411766
+268,"{'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'Twitter', 'CNN'}",{'Disaster Related Information Classification'},0.10843373493975904,0.375,2.075
+745,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'Not Discussed', 'image', 'CNN'}",{'Remote_sensing'},0.10843373493975904,0.375,2.394230769230769
+701,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Not Discussed', 'supervised', 'CNN'}",{'Disaster Damage Assessment'},0.18072289156626506,0.375,1.1971153846153846
+724,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'Twitter', 'CNN'}","{'supervised', 'Disaster Related Information Classification'}",0.10843373493975904,0.375,2.223214285714286
+923,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'supervised', 'image'}","{'-', 'CNN'}",0.10843373493975904,0.375,2.394230769230769
+62,"{'image', 'CNN'}",set(),"{'image', 'CNN'}",0.37349397590361444,0.37349397590361444,1.0
+848,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'supervised', 'image'}","{'Not Discussed', 'Disaster Damage Assessment'}",0.1566265060240964,0.37142857142857144,1.6225563909774439
+944,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'supervised', 'image'}","{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",0.1566265060240964,0.37142857142857144,1.9267857142857143
+33,"{'Disaster Damage Assessment', 'CNN'}",{'CNN'},{'Disaster Damage Assessment'},0.25301204819277107,0.3620689655172413,1.155835543766578
+396,"{'supervised', 'image', 'CNN'}",set(),"{'supervised', 'image', 'CNN'}",0.3614457831325301,0.3614457831325301,1.0
+261,"{'Disaster Damage Assessment', 'supervised', 'CNN'}","{'supervised', 'CNN'}",{'Disaster Damage Assessment'},0.24096385542168675,0.35714285714285715,1.14010989010989
+694,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Not Discussed', 'CNN'}","{'Disaster Damage Assessment', 'supervised'}",0.18072289156626506,0.35714285714285715,1.2351190476190477
+933,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'image'},"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}",0.1566265060240964,0.35135135135135137,1.9441441441441443
+597,"{'multimodal', 'supervised', 'Twitter'}","{'supervised', 'Twitter'}",{'multimodal'},0.1566265060240964,0.35135135135135137,1.62012012012012
+590,"{'cross-entrophy', 'supervised', 'Twitter'}","{'supervised', 'Twitter'}",{'cross-entrophy'},0.1566265060240964,0.35135135135135137,1.4581081081081082
+758,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'supervised', 'Twitter'}","{'Not Discussed', 'CNN'}",0.1566265060240964,0.35135135135135137,0.6943371943371944
+841,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}",{'image'},"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",0.1566265060240964,0.35135135135135137,1.715421303656598
+500,"{'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'supervised', 'Twitter'}",{'Disaster Related Information Filtering'},0.1566265060240964,0.35135135135135137,1.5348506401137982
+154,"{'Remote_sensing', 'image'}",{'image'},{'Remote_sensing'},0.1566265060240964,0.35135135135135137,2.2432432432432434
+165,"{'multimodal', 'Twitter'}",{'Twitter'},{'multimodal'},0.1686746987951807,0.35,1.6138888888888887
+294,"{'Not Discussed', 'Twitter', 'CNN'}",{'Twitter'},"{'Not Discussed', 'CNN'}",0.1686746987951807,0.35,0.6916666666666667
+115,"{'Disaster Related Information Filtering', 'Twitter'}",{'Twitter'},{'Disaster Related Information Filtering'},0.1686746987951807,0.35,1.5289473684210526
+524,"{'Not Discussed', 'Twitter', 'text'}",{'Twitter'},"{'Not Discussed', 'text'}",0.1686746987951807,0.35,1.7088235294117646
+873,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'Not Discussed', 'Twitter'}","{'multimodal', 'supervised'}",0.10843373493975904,0.34615384615384615,1.6900452488687783
+623,"{'Not Discussed', '-', 'image', 'CNN'}","{'Not Discussed', 'image'}","{'-', 'CNN'}",0.10843373493975904,0.34615384615384615,2.210059171597633
+453,"{'Remote_sensing', 'Disaster Damage Assessment', 'image'}",{'Disaster Damage Assessment'},"{'Remote_sensing', 'image'}",0.10843373493975904,0.34615384615384615,2.210059171597633
+861,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'Not Discussed', 'Twitter'}","{'supervised', 'Disaster Related Information Filtering'}",0.10843373493975904,0.34615384615384615,1.596153846153846
+742,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'Not Discussed', 'image'}","{'Remote_sensing', 'CNN'}",0.10843373493975904,0.34615384615384615,2.873076923076923
+911,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'image'}","{'-', 'supervised', 'CNN'}",0.10843373493975904,0.34615384615384615,2.210059171597633
+90,"{'Remote_sensing', 'Disaster Damage Assessment'}",{'Disaster Damage Assessment'},{'Remote_sensing'},0.10843373493975904,0.34615384615384615,2.210059171597633
+257,"{'Disaster Damage Assessment', 'supervised', 'CNN'}",{'CNN'},"{'Disaster Damage Assessment', 'supervised'}",0.24096385542168675,0.3448275862068965,1.1925287356321839
+241,"{'supervised', '-', 'image'}","{'supervised', 'image'}",{'-'},0.14457831325301204,0.3428571428571428,1.4977443609022556
+295,"{'Not Discussed', 'Twitter', 'CNN'}","{'Not Discussed', 'CNN'}",{'Twitter'},0.1686746987951807,0.3333333333333333,0.6916666666666667
+657,"{'supervised', '-', 'image', 'CNN'}","{'supervised', 'image', 'CNN'}",{'-'},0.12048192771084337,0.3333333333333333,1.456140350877193
+679,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}","{'Not Discussed', 'CNN'}","{'Disaster Damage Assessment', 'image'}",0.1686746987951807,0.3333333333333333,1.3833333333333333
+949,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'supervised', 'CNN'}","{'Disaster Damage Assessment', 'image'}",0.1566265060240964,0.325,1.3487500000000001
+162,"{'cross-entrophy', 'Twitter'}",{'Twitter'},{'cross-entrophy'},0.1566265060240964,0.325,1.3487500000000001
+593,"{'multimodal', 'supervised', 'Twitter'}",{'Twitter'},"{'multimodal', 'supervised'}",0.1566265060240964,0.325,1.586764705882353
+751,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}",{'Twitter'},"{'Not Discussed', 'supervised', 'CNN'}",0.1566265060240964,0.325,0.6743750000000001
+496,"{'supervised', 'Disaster Related Information Filtering', 'Twitter'}",{'Twitter'},"{'supervised', 'Disaster Related Information Filtering'}",0.1566265060240964,0.325,1.4986111111111111
+586,"{'cross-entrophy', 'supervised', 'Twitter'}",{'Twitter'},"{'cross-entrophy', 'supervised'}",0.1566265060240964,0.325,1.3487500000000001
+760,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'Not Discussed', 'supervised', 'CNN'}",{'Twitter'},0.1566265060240964,0.325,0.6743750000000001
+28,"{'-', 'image'}",{'image'},{'-'},0.14457831325301204,0.32432432432432434,1.4167852062588906
+891,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'supervised', 'Twitter'}","{'Not Discussed', 'text'}",0.14457831325301204,0.32432432432432434,1.5834658187599366
+237,"{'supervised', '-', 'image'}",{'image'},"{'-', 'supervised'}",0.14457831325301204,0.32432432432432434,1.5834658187599366
+331,"{'Remote_sensing', 'image', 'CNN'}","{'image', 'CNN'}",{'Remote_sensing'},0.12048192771084337,0.3225806451612903,2.05955334987593
+651,"{'supervised', '-', 'image', 'CNN'}","{'image', 'CNN'}","{'-', 'supervised'}",0.12048192771084337,0.3225806451612903,1.5749525616698292
+213,"{'-', 'image', 'CNN'}","{'image', 'CNN'}",{'-'},0.12048192771084337,0.3225806451612903,1.4091680814940577
+88,"{'Not Discussed', 'Disaster Damage Assessment'}",{'Not Discussed'},{'Disaster Damage Assessment'},0.2289156626506024,0.31666666666666665,1.0108974358974359
+584,"{'Remote_sensing', 'supervised', 'image'}","{'supervised', 'image'}",{'Remote_sensing'},0.13253012048192772,0.3142857142857143,2.0065934065934066
+125,"{'Not Discussed', 'Twitter'}",set(),"{'Not Discussed', 'Twitter'}",0.3132530120481928,0.3132530120481928,1.0
+137,"{'Not Discussed', 'image'}",set(),"{'Not Discussed', 'image'}",0.3132530120481928,0.3132530120481928,1.0
+3,{'Disaster Damage Assessment'},set(),{'Disaster Damage Assessment'},0.3132530120481928,0.3132530120481928,1.0
+936,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'CNN'}","{'Disaster Damage Assessment', 'supervised', 'image'}",0.1566265060240964,0.30952380952380953,1.4272486772486772
+753,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'Not Discussed', 'CNN'}","{'supervised', 'Twitter'}",0.1566265060240964,0.30952380952380953,0.6943371943371943
+451,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}","{'Not Discussed', 'supervised'}",{'Disaster Damage Assessment'},0.20481927710843373,0.3090909090909091,0.9867132867132866
+553,"{'Not Discussed', 'supervised', 'image'}",{'supervised'},"{'Not Discussed', 'image'}",0.2891566265060241,0.30769230769230765,0.982248520710059
+97,"{'Disaster Damage Assessment', 'supervised'}",{'supervised'},{'Disaster Damage Assessment'},0.2891566265060241,0.30769230769230765,0.982248520710059
+806,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'supervised', 'image', 'CNN'}",{'Remote_sensing'},0.10843373493975904,0.3,1.9153846153846152
+106,"{'Disaster Related Information Classification', 'Twitter'}",{'Twitter'},{'Disaster Related Information Classification'},0.14457831325301204,0.3,1.66
+79,"{'Twitter', 'CrisisMMD'}",{'Twitter'},{'CrisisMMD'},0.14457831325301204,0.3,2.075
+922,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'supervised', 'image', 'CNN'}","{'Not Discussed', '-'}",0.10843373493975904,0.3,1.66
+885,"{'Not Discussed', 'supervised', 'Twitter', 'text'}",{'Twitter'},"{'Not Discussed', 'supervised', 'text'}",0.14457831325301204,0.3,1.66
+437,"{'supervised', 'Twitter', 'CrisisMMD'}","{'supervised', 'Twitter'}",{'CrisisMMD'},0.13253012048192772,0.2972972972972973,2.0563063063063067
+580,"{'Remote_sensing', 'supervised', 'image'}",{'image'},"{'Remote_sensing', 'supervised'}",0.13253012048192772,0.2972972972972973,2.243243243243243
+479,"{'supervised', 'Disaster Related Information Classification', 'Twitter'}","{'supervised', 'Twitter'}",{'Disaster Related Information Classification'},0.13253012048192772,0.2972972972972973,1.6450450450450451
+357,"{'supervised', 'Twitter', 'CNN'}",{'supervised'},"{'Twitter', 'CNN'}",0.27710843373493976,0.2948717948717949,1.0197649572649574
+518,"{'Not Discussed', 'supervised', 'Twitter'}",{'supervised'},"{'Not Discussed', 'Twitter'}",0.27710843373493976,0.2948717948717949,0.9413214990138067
+782,"{'Not Discussed', 'supervised', 'image', 'CNN'}",{'supervised'},"{'Not Discussed', 'image', 'CNN'}",0.27710843373493976,0.2948717948717949,1.0197649572649574
+250,"{'Disaster Damage Assessment', 'image', 'CNN'}",{'CNN'},"{'Disaster Damage Assessment', 'image'}",0.20481927710843373,0.29310344827586204,1.2163793103448275
+622,"{'Not Discussed', '-', 'image', 'CNN'}","{'image', 'CNN'}","{'Not Discussed', '-'}",0.10843373493975904,0.2903225806451613,1.606451612903226
+740,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'image', 'CNN'}","{'Not Discussed', 'Remote_sensing'}",0.10843373493975904,0.2903225806451613,2.4096774193548387
+799,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'image', 'CNN'}","{'Remote_sensing', 'supervised'}",0.10843373493975904,0.2903225806451613,2.190615835777126
+909,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'image', 'CNN'}","{'Not Discussed', 'supervised', '-'}",0.10843373493975904,0.2903225806451613,1.8535980148883375
+95,"{'Disaster Damage Assessment', 'supervised'}",set(),"{'Disaster Damage Assessment', 'supervised'}",0.2891566265060241,0.2891566265060241,1.0
+47,"{'Twitter', 'CNN'}",set(),"{'Twitter', 'CNN'}",0.2891566265060241,0.2891566265060241,1.0
+550,"{'Not Discussed', 'supervised', 'image'}",set(),"{'Not Discussed', 'supervised', 'image'}",0.2891566265060241,0.2891566265060241,1.0
+305,"{'Not Discussed', 'image', 'CNN'}",set(),"{'Not Discussed', 'image', 'CNN'}",0.2891566265060241,0.2891566265060241,1.0
+710,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'supervised', 'CNN'}","{'Disaster Damage Assessment', 'image'}",0.1927710843373494,0.28571428571428575,1.185714285714286
+653,"{'supervised', '-', 'image', 'CNN'}","{'supervised', 'image'}","{'-', 'CNN'}",0.12048192771084337,0.2857142857142857,1.824175824175824
+668,"{'Not Discussed', 'supervised', '-', 'image'}","{'supervised', 'image'}","{'Not Discussed', '-'}",0.12048192771084337,0.2857142857142857,1.5809523809523809
+447,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",{'Not Discussed'},"{'Disaster Damage Assessment', 'supervised'}",0.20481927710843373,0.2833333333333333,0.9798611111111112
+150,"{'Not Discussed', 'text'}",{'Not Discussed'},{'text'},0.20481927710843373,0.2833333333333333,1.0689393939393939
+515,"{'Not Discussed', 'supervised', 'Twitter'}",set(),"{'Not Discussed', 'supervised', 'Twitter'}",0.27710843373493976,0.27710843373493976,1.0
+778,"{'Not Discussed', 'supervised', 'image', 'CNN'}",set(),"{'Not Discussed', 'supervised', 'image', 'CNN'}",0.27710843373493976,0.27710843373493976,1.0
+354,"{'supervised', 'Twitter', 'CNN'}",set(),"{'supervised', 'Twitter', 'CNN'}",0.27710843373493976,0.27710843373493976,1.0
+243,"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",{'CNN'},"{'Not Discussed', 'Disaster Damage Assessment'}",0.1927710843373494,0.27586206896551724,1.2050816696914701
+704,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'CNN'},"{'Disaster Damage Assessment', 'supervised', 'image'}",0.1927710843373494,0.27586206896551724,1.272030651340996
+168,"{'precision, recall, f1-score', 'Twitter'}",{'Twitter'},"{'precision, recall, f1-score'}",0.13253012048192772,0.275,1.2680555555555557
+642,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'Not Discussed', 'supervised', 'CNN'}",{'-'},0.13253012048192772,0.275,1.2013157894736843
+475,"{'supervised', 'Disaster Related Information Classification', 'Twitter'}",{'Twitter'},"{'supervised', 'Disaster Related Information Classification'}",0.13253012048192772,0.275,1.630357142857143
+433,"{'supervised', 'Twitter', 'CrisisMMD'}",{'Twitter'},"{'supervised', 'CrisisMMD'}",0.13253012048192772,0.275,2.075
+698,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'Not Discussed', 'supervised'}","{'Disaster Damage Assessment', 'CNN'}",0.18072289156626506,0.2727272727272727,1.077922077922078
+575,"{'Not Discussed', 'supervised', 'text'}","{'Not Discussed', 'supervised'}",{'text'},0.18072289156626506,0.2727272727272727,1.0289256198347105
+224,"{'Not Discussed', '-', 'image'}",{'image'},"{'Not Discussed', '-'}",0.12048192771084337,0.2702702702702703,1.4954954954954955
+604,"{'supervised', 'precision, recall, f1-score', 'Twitter'}","{'supervised', 'Twitter'}","{'precision, recall, f1-score'}",0.12048192771084337,0.2702702702702703,1.2462462462462462
+646,"{'supervised', '-', 'image', 'CNN'}",{'image'},"{'-', 'supervised', 'CNN'}",0.12048192771084337,0.2702702702702703,1.7255717255717256
+504,"{'Not Discussed', 'Remote_sensing', 'image'}",{'image'},"{'Not Discussed', 'Remote_sensing'}",0.12048192771084337,0.2702702702702703,2.2432432432432434
+329,"{'Remote_sensing', 'image', 'CNN'}",{'image'},"{'Remote_sensing', 'CNN'}",0.12048192771084337,0.2702702702702703,2.2432432432432434
+210,"{'-', 'image', 'CNN'}",{'image'},"{'-', 'CNN'}",0.12048192771084337,0.2702702702702703,1.7255717255717256
+661,"{'Not Discussed', 'supervised', '-', 'image'}",{'image'},"{'Not Discussed', 'supervised', '-'}",0.12048192771084337,0.2702702702702703,1.7255717255717256
+695,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}","{'supervised', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment'}",0.18072289156626506,0.26785714285714285,1.1701127819548873
+245,"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",{'Not Discussed'},"{'Disaster Damage Assessment', 'CNN'}",0.1927710843373494,0.26666666666666666,1.053968253968254
+19,{'text'},set(),{'text'},0.26506024096385544,0.26506024096385544,1.0
+636,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'Not Discussed', 'CNN'}","{'-', 'supervised'}",0.13253012048192772,0.2619047619047619,1.2787114845938377
+206,"{'Not Discussed', '-', 'CNN'}","{'Not Discussed', 'CNN'}",{'-'},0.13253012048192772,0.2619047619047619,1.1441102756892232
+689,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}",{'CNN'},"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",0.18072289156626506,0.2586206896551724,1.2626774847870181
+913,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'supervised', 'image'}","{'Not Discussed', '-', 'CNN'}",0.10843373493975904,0.2571428571428571,1.94025974025974
+803,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'supervised', 'image'}","{'Remote_sensing', 'CNN'}",0.10843373493975904,0.2571428571428571,2.134285714285714
+259,"{'Disaster Damage Assessment', 'supervised', 'CNN'}",{'supervised'},"{'Disaster Damage Assessment', 'CNN'}",0.24096385542168675,0.2564102564102564,1.0134310134310134
+198,"{'supervised', 'text'}",{'supervised'},{'text'},0.24096385542168675,0.2564102564102564,0.9673659673659672
+187,"{'cross-entrophy', 'supervised'}",{'supervised'},{'cross-entrophy'},0.24096385542168675,0.2564102564102564,1.064102564102564
+32,"{'Disaster Damage Assessment', 'CNN'}",set(),"{'Disaster Damage Assessment', 'CNN'}",0.25301204819277107,0.25301204819277107,1.0
+25,"{'Not Discussed', '-'}",{'Not Discussed'},{'-'},0.18072289156626506,0.25,1.0921052631578947
+440,"{'Not Discussed', 'Disaster Damage Assessment', 'image'}",{'Not Discussed'},"{'Disaster Damage Assessment', 'image'}",0.18072289156626506,0.25,1.0375
+691,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}",{'Not Discussed'},"{'Disaster Damage Assessment', 'supervised', 'CNN'}",0.18072289156626506,0.25,1.0375
+510,"{'Not Discussed', 'multimodal', 'Twitter'}",{'Twitter'},"{'Not Discussed', 'multimodal'}",0.12048192771084337,0.25,1.596153846153846
+572,"{'Not Discussed', 'supervised', 'text'}",{'Not Discussed'},"{'supervised', 'text'}",0.18072289156626506,0.25,1.0375
+483,"{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}",{'Twitter'},"{'Not Discussed', 'Disaster Related Information Filtering'}",0.12048192771084337,0.25,1.596153846153846
+394,"{'cross-entrophy', 'supervised', 'CNN'}","{'supervised', 'CNN'}",{'cross-entrophy'},0.1686746987951807,0.25,1.0375
+600,"{'supervised', 'precision, recall, f1-score', 'Twitter'}",{'Twitter'},"{'supervised', 'precision, recall, f1-score'}",0.12048192771084337,0.25,1.2205882352941178
+902,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}",{'image'},"{'Not Discussed', 'supervised', '-', 'CNN'}",0.10843373493975904,0.24324324324324326,1.8353808353808354
+863,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'supervised', 'Twitter'}","{'Not Discussed', 'Disaster Related Information Filtering'}",0.10843373493975904,0.24324324324324326,1.5530145530145532
+877,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'supervised', 'Twitter'}","{'Not Discussed', 'multimodal'}",0.10843373493975904,0.24324324324324326,1.5530145530145532
+617,"{'Not Discussed', '-', 'image', 'CNN'}",{'image'},"{'Not Discussed', '-', 'CNN'}",0.10843373493975904,0.24324324324324326,1.8353808353808354
+728,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'supervised', 'Twitter'}","{'Disaster Related Information Classification', 'CNN'}",0.10843373493975904,0.24324324324324326,2.018918918918919
+796,"{'Remote_sensing', 'supervised', 'image', 'CNN'}",{'image'},"{'Remote_sensing', 'supervised', 'CNN'}",0.10843373493975904,0.24324324324324326,2.2432432432432434
+817,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'supervised', 'Twitter'}","{'cross-entrophy', 'CNN'}",0.10843373493975904,0.24324324324324326,1.4420849420849422
+737,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}",{'image'},"{'Not Discussed', 'Remote_sensing', 'CNN'}",0.10843373493975904,0.24324324324324326,2.2432432432432434
+832,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'supervised', 'Twitter'}","{'multimodal', 'CNN'}",0.10843373493975904,0.24324324324324326,1.6824324324324327
+455,"{'Remote_sensing', 'Disaster Damage Assessment', 'image'}",{'image'},"{'Remote_sensing', 'Disaster Damage Assessment'}",0.10843373493975904,0.24324324324324326,2.2432432432432434
+674,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}",{'CNN'},"{'Not Discussed', 'Disaster Damage Assessment', 'image'}",0.1686746987951807,0.24137931034482757,1.3356321839080458
+292,"{'Not Discussed', 'Twitter', 'CNN'}",{'CNN'},"{'Not Discussed', 'Twitter'}",0.1686746987951807,0.24137931034482757,0.7705570291777187
+60,"{'cross-entrophy', 'CNN'}",{'CNN'},{'cross-entrophy'},0.1686746987951807,0.24137931034482757,1.0017241379310344
+390,"{'cross-entrophy', 'supervised', 'CNN'}",{'CNN'},"{'cross-entrophy', 'supervised'}",0.1686746987951807,0.24137931034482757,1.0017241379310344
+92,"{'Disaster Damage Assessment', 'image'}",set(),"{'Disaster Damage Assessment', 'image'}",0.24096385542168675,0.24096385542168675,1.0
+256,"{'Disaster Damage Assessment', 'supervised', 'CNN'}",set(),"{'Disaster Damage Assessment', 'supervised', 'CNN'}",0.24096385542168675,0.24096385542168675,1.0
+197,"{'supervised', 'text'}",set(),"{'supervised', 'text'}",0.24096385542168675,0.24096385542168675,1.0
+185,"{'cross-entrophy', 'supervised'}",set(),"{'cross-entrophy', 'supervised'}",0.24096385542168675,0.24096385542168675,1.0
+14,{'cross-entrophy'},set(),{'cross-entrophy'},0.24096385542168675,0.24096385542168675,1.0
+943,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'Not Discussed', 'supervised'}","{'Disaster Damage Assessment', 'image', 'CNN'}",0.1566265060240964,0.23636363636363636,1.1540106951871658
+234,"{'Not Discussed', 'supervised', '-'}","{'Not Discussed', 'supervised'}",{'-'},0.1566265060240964,0.23636363636363636,1.0325358851674642
+757,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'Not Discussed', 'supervised'}","{'Twitter', 'CNN'}",0.1566265060240964,0.23636363636363636,0.8174242424242425
+847,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}","{'Not Discussed', 'supervised'}","{'Disaster Damage Assessment', 'image'}",0.1566265060240964,0.23636363636363636,0.9809090909090908
+676,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}",{'Not Discussed'},"{'Disaster Damage Assessment', 'image', 'CNN'}",0.1686746987951807,0.2333333333333333,1.1392156862745098
+293,"{'Not Discussed', 'Twitter', 'CNN'}",{'Not Discussed'},"{'Twitter', 'CNN'}",0.1686746987951807,0.2333333333333333,0.8069444444444444
+523,"{'Not Discussed', 'Twitter', 'text'}",{'Not Discussed'},"{'Twitter', 'text'}",0.1686746987951807,0.2333333333333333,1.0192982456140351
+220,"{'supervised', '-', 'CNN'}","{'supervised', 'CNN'}",{'-'},0.1566265060240964,0.23214285714285718,1.0140977443609025
+938,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}","{'supervised', 'CNN'}","{'Not Discussed', 'Disaster Damage Assessment', 'image'}",0.1566265060240964,0.23214285714285718,1.2845238095238096
+755,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}","{'supervised', 'CNN'}","{'Not Discussed', 'Twitter'}",0.1566265060240964,0.23214285714285718,0.7410714285714287
+118,"{'supervised', 'Disaster Related Information Filtering'}",{'supervised'},{'Disaster Related Information Filtering'},0.21686746987951808,0.23076923076923075,1.008097165991903
+462,"{'Disaster Damage Assessment', 'supervised', 'image'}",{'supervised'},"{'Disaster Damage Assessment', 'image'}",0.21686746987951808,0.23076923076923075,0.9576923076923076
+0,{'-'},set(),{'-'},0.2289156626506024,0.2289156626506024,1.0
+86,"{'Not Discussed', 'Disaster Damage Assessment'}",set(),"{'Not Discussed', 'Disaster Damage Assessment'}",0.2289156626506024,0.2289156626506024,1.0
+6,{'Disaster Related Information Filtering'},set(),{'Disaster Related Information Filtering'},0.2289156626506024,0.2289156626506024,1.0
+173,"{'Twitter', 'text'}",set(),"{'Twitter', 'text'}",0.2289156626506024,0.2289156626506024,1.0
+856,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}",{'Twitter'},"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}",0.10843373493975904,0.225,1.5562500000000001
+721,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}",{'Twitter'},"{'CNN', 'supervised', 'Disaster Related Information Classification'}",0.10843373493975904,0.225,1.8675000000000002
+825,"{'multimodal', 'supervised', 'Twitter', 'CNN'}",{'Twitter'},"{'multimodal', 'supervised', 'CNN'}",0.10843373493975904,0.225,1.5562500000000001
+266,"{'Disaster Related Information Classification', 'Twitter', 'CNN'}",{'Twitter'},"{'Disaster Related Information Classification', 'CNN'}",0.10843373493975904,0.225,1.8675000000000002
+159,"{'Twitter API', 'Twitter'}",{'Twitter'},{'Twitter API'},0.10843373493975904,0.225,1.8675000000000002
+363,"{'Twitter', 'text', 'CNN'}",{'Twitter'},"{'CNN', 'text'}",0.10843373493975904,0.225,1.8675000000000002
+426,"{'multimodal', 'Twitter', 'CrisisMMD'}",{'Twitter'},"{'multimodal', 'CrisisMMD'}",0.10843373493975904,0.225,2.075
+775,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'Not Discussed', 'supervised', 'CNN'}",{'Web database'},0.10843373493975904,0.225,1.6977272727272725
+810,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}",{'Twitter'},"{'cross-entrophy', 'supervised', 'CNN'}",0.10843373493975904,0.225,1.3339285714285716
+870,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}",{'Twitter'},"{'Not Discussed', 'multimodal', 'supervised'}",0.10843373493975904,0.225,1.5562500000000001
+921,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'supervised', 'CNN'}","{'-', 'image'}",0.10843373493975904,0.225,1.5562500000000001
+349,"{'multimodal', 'Twitter', 'CNN'}",{'Twitter'},"{'multimodal', 'CNN'}",0.10843373493975904,0.225,1.5562500000000001
+342,"{'cross-entrophy', 'Twitter', 'CNN'}",{'Twitter'},"{'cross-entrophy', 'CNN'}",0.10843373493975904,0.225,1.3339285714285716
+69,"{'precision, recall, f1-score', 'CNN'}",{'CNN'},"{'precision, recall, f1-score'}",0.1566265060240964,0.22413793103448276,1.0335249042145593
+22,"{'-', 'CNN'}",{'CNN'},{'-'},0.1566265060240964,0.22413793103448276,0.9791288566243195
+216,"{'supervised', '-', 'CNN'}",{'CNN'},"{'-', 'supervised'}",0.1566265060240964,0.22413793103448276,1.094320486815416
+749,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}",{'CNN'},"{'Not Discussed', 'supervised', 'Twitter'}",0.1566265060240964,0.22413793103448276,0.8088455772113943
+930,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'CNN'},"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}",0.1566265060240964,0.22413793103448276,1.4310344827586208
+562,"{'Not Discussed', 'multimodal', 'supervised'}","{'Not Discussed', 'supervised'}",{'multimodal'},0.14457831325301204,0.21818181818181817,1.006060606060606
+493,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}","{'Not Discussed', 'supervised'}",{'Disaster Related Information Filtering'},0.14457831325301204,0.21818181818181817,0.9531100478468899
+889,"{'Not Discussed', 'supervised', 'Twitter', 'text'}","{'Not Discussed', 'supervised'}","{'Twitter', 'text'}",0.14457831325301204,0.21818181818181817,0.9531100478468899
+569,"{'Not Discussed', 'supervised', 'precision, recall, f1-score'}","{'Not Discussed', 'supervised'}","{'precision, recall, f1-score'}",0.14457831325301204,0.21818181818181817,1.006060606060606
+448,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",{'supervised'},"{'Not Discussed', 'Disaster Damage Assessment'}",0.20481927710843373,0.21794871794871792,0.9520917678812415
+608,"{'supervised', 'Twitter', 'text'}",{'supervised'},"{'Twitter', 'text'}",0.20481927710843373,0.21794871794871792,0.9520917678812415
+31,"{'supervised', '-'}",{'supervised'},{'-'},0.20481927710843373,0.21794871794871792,0.9520917678812415
+193,"{'multimodal', 'supervised'}",{'supervised'},{'multimodal'},0.20481927710843373,0.21794871794871792,1.0049857549857548
+196,"{'supervised', 'precision, recall, f1-score'}",{'supervised'},"{'precision, recall, f1-score'}",0.20481927710843373,0.21794871794871792,1.0049857549857548
+459,"{'Disaster Damage Assessment', 'supervised', 'image'}",set(),"{'Disaster Damage Assessment', 'supervised', 'image'}",0.21686746987951808,0.21686746987951808,1.0
+16,{'multimodal'},set(),{'multimodal'},0.21686746987951808,0.21686746987951808,1.0
+17,"{'precision, recall, f1-score'}",set(),"{'precision, recall, f1-score'}",0.21686746987951808,0.21686746987951808,1.0
+116,"{'supervised', 'Disaster Related Information Filtering'}",set(),"{'supervised', 'Disaster Related Information Filtering'}",0.21686746987951808,0.21686746987951808,1.0
+141,"{'Not Discussed', 'multimodal'}",{'Not Discussed'},{'multimodal'},0.1566265060240964,0.21666666666666667,0.9990740740740741
+750,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}",{'Not Discussed'},"{'supervised', 'Twitter', 'CNN'}",0.1566265060240964,0.21666666666666667,0.7818840579710145
+112,"{'Not Discussed', 'Disaster Related Information Filtering'}",{'Not Discussed'},{'Disaster Related Information Filtering'},0.1566265060240964,0.21666666666666667,0.9464912280701755
+932,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'Not Discussed'},"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",0.1566265060240964,0.21666666666666667,1.1239583333333334
+230,"{'Not Discussed', 'supervised', '-'}",{'Not Discussed'},"{'-', 'supervised'}",0.1566265060240964,0.21666666666666667,1.057843137254902
+144,"{'Not Discussed', 'precision, recall, f1-score'}",{'Not Discussed'},"{'precision, recall, f1-score'}",0.1566265060240964,0.21666666666666667,0.9990740740740741
+840,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}",{'Not Discussed'},"{'Disaster Damage Assessment', 'supervised', 'image'}",0.1566265060240964,0.21666666666666667,0.9990740740740741
+288,"{'Not Discussed', 'Remote_sensing', 'CNN'}","{'Not Discussed', 'CNN'}",{'Remote_sensing'},0.10843373493975904,0.2142857142857143,1.3681318681318682
+738,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}","{'Not Discussed', 'CNN'}","{'Remote_sensing', 'image'}",0.10843373493975904,0.2142857142857143,1.3681318681318682
+621,"{'Not Discussed', '-', 'image', 'CNN'}","{'Not Discussed', 'CNN'}","{'-', 'image'}",0.10843373493975904,0.2142857142857143,1.4821428571428574
+908,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'CNN'}","{'-', 'supervised', 'image'}",0.10843373493975904,0.2142857142857143,1.4821428571428574
+302,"{'Not Discussed', 'Web database', 'CNN'}","{'Not Discussed', 'CNN'}",{'Web database'},0.10843373493975904,0.2142857142857143,1.6168831168831168
+415,"{'supervised', 'precision, recall, f1-score', 'CNN'}","{'supervised', 'CNN'}","{'precision, recall, f1-score'}",0.14457831325301204,0.2142857142857143,0.9880952380952381
+408,"{'multimodal', 'supervised', 'CNN'}","{'supervised', 'CNN'}",{'multimodal'},0.14457831325301204,0.2142857142857143,0.9880952380952381
+316,"{'Not Discussed', 'precision, recall, f1-score', 'CNN'}","{'Not Discussed', 'CNN'}","{'precision, recall, f1-score'}",0.10843373493975904,0.2142857142857143,0.9880952380952381
+768,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'Not Discussed', 'CNN'}","{'Web database', 'supervised'}",0.10843373493975904,0.2142857142857143,1.7785714285714287
+411,"{'supervised', 'precision, recall, f1-score', 'CNN'}",{'CNN'},"{'supervised', 'precision, recall, f1-score'}",0.14457831325301204,0.2068965517241379,1.0101419878296145
+404,"{'multimodal', 'supervised', 'CNN'}",{'CNN'},"{'multimodal', 'supervised'}",0.14457831325301204,0.2068965517241379,1.0101419878296145
+66,"{'multimodal', 'CNN'}",{'CNN'},{'multimodal'},0.14457831325301204,0.2068965517241379,0.954022988505747
+707,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'supervised'},"{'Disaster Damage Assessment', 'image', 'CNN'}",0.1927710843373494,0.20512820512820512,1.0015082956259427
+445,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",set(),"{'Not Discussed', 'Disaster Damage Assessment', 'supervised'}",0.20481927710843373,0.20481927710843373,1.0
+29,"{'supervised', '-'}",set(),"{'-', 'supervised'}",0.20481927710843373,0.20481927710843373,1.0
+191,"{'multimodal', 'supervised'}",set(),"{'multimodal', 'supervised'}",0.20481927710843373,0.20481927710843373,1.0
+249,"{'Disaster Damage Assessment', 'image', 'CNN'}",set(),"{'Disaster Damage Assessment', 'image', 'CNN'}",0.20481927710843373,0.20481927710843373,1.0
+606,"{'supervised', 'Twitter', 'text'}",set(),"{'supervised', 'Twitter', 'text'}",0.20481927710843373,0.20481927710843373,1.0
+149,"{'Not Discussed', 'text'}",set(),"{'Not Discussed', 'text'}",0.20481927710843373,0.20481927710843373,1.0
+194,"{'supervised', 'precision, recall, f1-score'}",set(),"{'supervised', 'precision, recall, f1-score'}",0.20481927710843373,0.20481927710843373,1.0
+638,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'Not Discussed', 'supervised'}","{'-', 'CNN'}",0.13253012048192772,0.2,1.276923076923077
+884,"{'Not Discussed', 'supervised', 'Twitter', 'text'}",{'Not Discussed'},"{'supervised', 'Twitter', 'text'}",0.14457831325301204,0.19999999999999998,0.9764705882352941
+489,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}",{'Not Discussed'},"{'supervised', 'Disaster Related Information Filtering'}",0.14457831325301204,0.19999999999999998,0.9222222222222222
+558,"{'Not Discussed', 'multimodal', 'supervised'}",{'Not Discussed'},"{'multimodal', 'supervised'}",0.14457831325301204,0.19999999999999998,0.9764705882352941
+565,"{'Not Discussed', 'supervised', 'precision, recall, f1-score'}",{'Not Discussed'},"{'supervised', 'precision, recall, f1-score'}",0.14457831325301204,0.19999999999999998,0.9764705882352941
+282,"{'supervised', 'Disaster Related Information Filtering', 'CNN'}","{'supervised', 'CNN'}",{'Disaster Related Information Filtering'},0.13253012048192772,0.19642857142857145,0.8580827067669174
+637,"{'Not Discussed', 'supervised', '-', 'CNN'}","{'supervised', 'CNN'}","{'Not Discussed', '-'}",0.13253012048192772,0.19642857142857145,1.086904761904762
+242,"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",set(),"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",0.1927710843373494,0.1927710843373494,1.0
+703,"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",set(),"{'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",0.1927710843373494,0.1927710843373494,1.0
+692,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}",{'supervised'},"{'Not Discussed', 'Disaster Damage Assessment', 'CNN'}",0.18072289156626506,0.1923076923076923,0.9975961538461537
+573,"{'Not Discussed', 'supervised', 'text'}",{'supervised'},"{'Not Discussed', 'text'}",0.18072289156626506,0.1923076923076923,0.9389140271493213
+278,"{'supervised', 'Disaster Related Information Filtering', 'CNN'}",{'CNN'},"{'supervised', 'Disaster Related Information Filtering'}",0.13253012048192772,0.18965517241379312,0.8745210727969349
+39,"{'Disaster Related Information Filtering', 'CNN'}",{'CNN'},{'Disaster Related Information Filtering'},0.13253012048192772,0.18965517241379312,0.8284936479128858
+202,"{'Not Discussed', '-', 'CNN'}",{'CNN'},"{'Not Discussed', '-'}",0.13253012048192772,0.18965517241379312,1.049425287356322
+630,"{'Not Discussed', 'supervised', '-', 'CNN'}",{'CNN'},"{'Not Discussed', 'supervised', '-'}",0.13253012048192772,0.18965517241379312,1.2108753315649867
+103,"{'Not Discussed', 'Disaster Related Information Classification'}",{'Not Discussed'},{'Disaster Related Information Classification'},0.13253012048192772,0.18333333333333335,1.0144444444444445
+203,"{'Not Discussed', '-', 'CNN'}",{'Not Discussed'},"{'-', 'CNN'}",0.13253012048192772,0.18333333333333335,1.1705128205128206
+631,"{'Not Discussed', 'supervised', '-', 'CNN'}",{'Not Discussed'},"{'-', 'supervised', 'CNN'}",0.13253012048192772,0.18333333333333335,1.1705128205128206
+548,"{'Not Discussed', 'supervised', 'accuracy'}","{'Not Discussed', 'supervised'}",{'accuracy'},0.12048192771084337,0.18181818181818182,1.1608391608391608
+667,"{'Not Discussed', 'supervised', '-', 'image'}","{'Not Discussed', 'supervised'}","{'-', 'image'}",0.12048192771084337,0.18181818181818182,1.2575757575757576
+472,"{'Not Discussed', 'supervised', 'Disaster Related Information Classification'}","{'Not Discussed', 'supervised'}",{'Disaster Related Information Classification'},0.12048192771084337,0.18181818181818182,1.006060606060606
+5,{'Disaster Related Information Classification'},set(),{'Disaster Related Information Classification'},0.18072289156626506,0.18072289156626506,1.0
+438,"{'Not Discussed', 'Disaster Damage Assessment', 'image'}",set(),"{'Not Discussed', 'Disaster Damage Assessment', 'image'}",0.18072289156626506,0.18072289156626506,1.0
+688,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}",set(),"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'CNN'}",0.18072289156626506,0.18072289156626506,1.0
+571,"{'Not Discussed', 'supervised', 'text'}",set(),"{'Not Discussed', 'supervised', 'text'}",0.18072289156626506,0.18072289156626506,1.0
+23,"{'Not Discussed', '-'}",set(),"{'Not Discussed', '-'}",0.18072289156626506,0.18072289156626506,1.0
+392,"{'cross-entrophy', 'supervised', 'CNN'}",{'supervised'},"{'cross-entrophy', 'CNN'}",0.1686746987951807,0.17948717948717946,1.064102564102564
+109,"{'supervised', 'Disaster Related Information Classification'}",{'supervised'},{'Disaster Related Information Classification'},0.1686746987951807,0.17948717948717946,0.993162393162393
+373,"{'Web Mining', 'supervised', 'CNN'}","{'supervised', 'CNN'}",{'Web Mining'},0.12048192771084337,0.17857142857142858,1.14010989010989
+275,"{'supervised', 'Disaster Related Information Classification', 'CNN'}","{'supervised', 'CNN'}",{'Disaster Related Information Classification'},0.12048192771084337,0.17857142857142858,0.9880952380952381
+387,"{'accuracy', 'supervised', 'CNN'}","{'supervised', 'CNN'}",{'accuracy'},0.12048192771084337,0.17857142857142858,1.14010989010989
+652,"{'supervised', '-', 'image', 'CNN'}","{'supervised', 'CNN'}","{'-', 'image'}",0.12048192771084337,0.17857142857142858,1.2351190476190477
+369,"{'Web Mining', 'supervised', 'CNN'}",{'CNN'},"{'Web Mining', 'supervised'}",0.12048192771084337,0.17241379310344826,1.1007957559681696
+645,"{'supervised', '-', 'image', 'CNN'}",{'CNN'},"{'-', 'supervised', 'image'}",0.12048192771084337,0.17241379310344826,1.1925287356321839
+327,"{'Remote_sensing', 'image', 'CNN'}",{'CNN'},"{'Remote_sensing', 'image'}",0.12048192771084337,0.17241379310344826,1.1007957559681696
+57,"{'accuracy', 'CNN'}",{'CNN'},{'accuracy'},0.12048192771084337,0.17241379310344826,1.1007957559681696
+209,"{'-', 'image', 'CNN'}",{'CNN'},"{'-', 'image'}",0.12048192771084337,0.17241379310344826,1.1925287356321839
+271,"{'supervised', 'Disaster Related Information Classification', 'CNN'}",{'CNN'},"{'supervised', 'Disaster Related Information Classification'}",0.12048192771084337,0.17241379310344826,1.022167487684729
+383,"{'accuracy', 'supervised', 'CNN'}",{'CNN'},"{'accuracy', 'supervised'}",0.12048192771084337,0.17241379310344826,1.1007957559681696
+45,"{'Remote_sensing', 'CNN'}",{'CNN'},{'Remote_sensing'},0.12048192771084337,0.17241379310344826,1.1007957559681696
+75,"{'text', 'CNN'}",{'CNN'},{'text'},0.12048192771084337,0.17241379310344826,0.6504702194357366
+51,"{'Web Mining', 'CNN'}",{'CNN'},{'Web Mining'},0.12048192771084337,0.17241379310344826,1.1007957559681696
+36,"{'Disaster Related Information Classification', 'CNN'}",{'CNN'},{'Disaster Related Information Classification'},0.12048192771084337,0.17241379310344826,0.9540229885057471
+59,"{'cross-entrophy', 'CNN'}",set(),"{'cross-entrophy', 'CNN'}",0.1686746987951807,0.1686746987951807,1.0
+291,"{'Not Discussed', 'Twitter', 'CNN'}",set(),"{'Not Discussed', 'Twitter', 'CNN'}",0.1686746987951807,0.1686746987951807,1.0
+107,"{'supervised', 'Disaster Related Information Classification'}",set(),"{'supervised', 'Disaster Related Information Classification'}",0.1686746987951807,0.1686746987951807,1.0
+389,"{'cross-entrophy', 'supervised', 'CNN'}",set(),"{'cross-entrophy', 'supervised', 'CNN'}",0.1686746987951807,0.1686746987951807,1.0
+164,"{'multimodal', 'Twitter'}",set(),"{'multimodal', 'Twitter'}",0.1686746987951807,0.1686746987951807,1.0
+673,"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}",set(),"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}",0.1686746987951807,0.1686746987951807,1.0
+522,"{'Not Discussed', 'Twitter', 'text'}",set(),"{'Not Discussed', 'Twitter', 'text'}",0.1686746987951807,0.1686746987951807,1.0
+113,"{'Disaster Related Information Filtering', 'Twitter'}",set(),"{'Disaster Related Information Filtering', 'Twitter'}",0.1686746987951807,0.1686746987951807,1.0
+135,"{'Not Discussed', 'accuracy'}",{'Not Discussed'},{'accuracy'},0.12048192771084337,0.16666666666666666,1.064102564102564
+934,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",{'supervised'},"{'Not Discussed', 'Disaster Damage Assessment', 'image', 'CNN'}",0.1566265060240964,0.16666666666666666,0.9880952380952381
+217,"{'supervised', '-', 'CNN'}",{'supervised'},"{'-', 'CNN'}",0.1566265060240964,0.16666666666666666,1.064102564102564
+595,"{'multimodal', 'supervised', 'Twitter'}",{'supervised'},"{'multimodal', 'Twitter'}",0.1566265060240964,0.16666666666666666,0.9880952380952381
+502,"{'Not Discussed', 'Remote_sensing', 'image'}",{'Not Discussed'},"{'Remote_sensing', 'image'}",0.12048192771084337,0.16666666666666666,1.064102564102564
+231,"{'Not Discussed', 'supervised', '-'}",{'supervised'},"{'Not Discussed', '-'}",0.1566265060240964,0.16666666666666666,0.9222222222222222
+123,"{'Not Discussed', 'Remote_sensing'}",{'Not Discussed'},{'Remote_sensing'},0.12048192771084337,0.16666666666666666,1.064102564102564
+184,"{'accuracy', 'supervised'}",{'supervised'},{'accuracy'},0.1566265060240964,0.16666666666666666,1.064102564102564
+132,"{'Not Discussed', 'Web database'}",{'Not Discussed'},{'Web database'},0.12048192771084337,0.16666666666666666,1.2575757575757573
+752,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}",{'supervised'},"{'Not Discussed', 'Twitter', 'CNN'}",0.1566265060240964,0.16666666666666666,0.9880952380952381
+660,"{'Not Discussed', 'supervised', '-', 'image'}",{'Not Discussed'},"{'-', 'supervised', 'image'}",0.12048192771084337,0.16666666666666666,1.1527777777777777
+223,"{'Not Discussed', '-', 'image'}",{'Not Discussed'},"{'-', 'image'}",0.12048192771084337,0.16666666666666666,1.1527777777777777
+588,"{'cross-entrophy', 'supervised', 'Twitter'}",{'supervised'},"{'cross-entrophy', 'Twitter'}",0.1566265060240964,0.16666666666666666,1.064102564102564
+178,"{'Web Mining', 'supervised'}",{'supervised'},{'Web Mining'},0.1566265060240964,0.16666666666666666,1.064102564102564
+482,"{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}",{'Not Discussed'},"{'Disaster Related Information Filtering', 'Twitter'}",0.12048192771084337,0.16666666666666666,0.9880952380952381
+468,"{'Not Discussed', 'supervised', 'Disaster Related Information Classification'}",{'Not Discussed'},"{'supervised', 'Disaster Related Information Classification'}",0.12048192771084337,0.16666666666666666,0.9880952380952381
+842,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}",{'supervised'},"{'Not Discussed', 'Disaster Damage Assessment', 'image'}",0.1566265060240964,0.16666666666666666,0.9222222222222222
+497,"{'supervised', 'Disaster Related Information Filtering', 'Twitter'}",{'supervised'},"{'Disaster Related Information Filtering', 'Twitter'}",0.1566265060240964,0.16666666666666666,0.9880952380952381
+509,"{'Not Discussed', 'multimodal', 'Twitter'}",{'Not Discussed'},"{'multimodal', 'Twitter'}",0.12048192771084337,0.16666666666666666,0.9880952380952381
+544,"{'Not Discussed', 'supervised', 'accuracy'}",{'Not Discussed'},"{'accuracy', 'supervised'}",0.12048192771084337,0.16666666666666666,1.064102564102564
+534,"{'Not Discussed', 'Web Mining', 'supervised'}","{'Not Discussed', 'supervised'}",{'Web Mining'},0.10843373493975904,0.16363636363636364,1.0447552447552446
+875,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}","{'Not Discussed', 'supervised'}","{'multimodal', 'Twitter'}",0.10843373493975904,0.16363636363636364,0.9701298701298702
+541,"{'Not Discussed', 'supervised', 'Web database'}","{'Not Discussed', 'supervised'}",{'Web database'},0.10843373493975904,0.16363636363636364,1.2347107438016527
+912,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'Not Discussed', 'supervised'}","{'-', 'image', 'CNN'}",0.10843373493975904,0.16363636363636364,1.3581818181818182
+862,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}","{'Not Discussed', 'supervised'}","{'Disaster Related Information Filtering', 'Twitter'}",0.10843373493975904,0.16363636363636364,0.9701298701298702
+772,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'Not Discussed', 'supervised'}","{'Web database', 'CNN'}",0.10843373493975904,0.16363636363636364,1.509090909090909
+338,"{'Remote_sensing', 'supervised', 'CNN'}","{'supervised', 'CNN'}",{'Remote_sensing'},0.10843373493975904,0.16071428571428573,1.0260989010989012
+421,"{'supervised', 'text', 'CNN'}","{'supervised', 'CNN'}",{'text'},0.10843373493975904,0.16071428571428573,0.6063311688311688
+910,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}","{'supervised', 'CNN'}","{'Not Discussed', '-', 'image'}",0.10843373493975904,0.16071428571428573,1.3339285714285716
+770,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}","{'supervised', 'CNN'}","{'Not Discussed', 'Web database'}",0.10843373493975904,0.16071428571428573,1.3339285714285716
+380,"{'Web database', 'supervised', 'CNN'}","{'supervised', 'CNN'}",{'Web database'},0.10843373493975904,0.16071428571428573,1.2126623376623376
+830,"{'multimodal', 'supervised', 'Twitter', 'CNN'}","{'supervised', 'CNN'}","{'multimodal', 'Twitter'}",0.10843373493975904,0.16071428571428573,0.9528061224489798
+815,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}","{'supervised', 'CNN'}","{'cross-entrophy', 'Twitter'}",0.10843373493975904,0.16071428571428573,1.0260989010989012
+725,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}","{'supervised', 'CNN'}","{'Disaster Related Information Classification', 'Twitter'}",0.10843373493975904,0.16071428571428573,1.111607142857143
+800,"{'Remote_sensing', 'supervised', 'image', 'CNN'}","{'supervised', 'CNN'}","{'Remote_sensing', 'image'}",0.10843373493975904,0.16071428571428573,1.0260989010989012
+176,"{'Web Mining', 'supervised'}",set(),"{'Web Mining', 'supervised'}",0.1566265060240964,0.1566265060240964,1.0
+214,"{'supervised', '-', 'CNN'}",set(),"{'-', 'supervised', 'CNN'}",0.1566265060240964,0.1566265060240964,1.0
+8,{'Remote_sensing'},set(),{'Remote_sensing'},0.1566265060240964,0.1566265060240964,1.0
+152,"{'Remote_sensing', 'image'}",set(),"{'Remote_sensing', 'image'}",0.1566265060240964,0.1566265060240964,1.0
+228,"{'Not Discussed', 'supervised', '-'}",set(),"{'Not Discussed', 'supervised', '-'}",0.1566265060240964,0.1566265060240964,1.0
+182,"{'accuracy', 'supervised'}",set(),"{'accuracy', 'supervised'}",0.1566265060240964,0.1566265060240964,1.0
+20,"{'-', 'CNN'}",set(),"{'-', 'CNN'}",0.1566265060240964,0.1566265060240964,1.0
+161,"{'cross-entrophy', 'Twitter'}",set(),"{'cross-entrophy', 'Twitter'}",0.1566265060240964,0.1566265060240964,1.0
+838,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}",set(),"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image'}",0.1566265060240964,0.1566265060240964,1.0
+110,"{'Not Discussed', 'Disaster Related Information Filtering'}",set(),"{'Not Discussed', 'Disaster Related Information Filtering'}",0.1566265060240964,0.1566265060240964,1.0
+585,"{'cross-entrophy', 'supervised', 'Twitter'}",set(),"{'cross-entrophy', 'supervised', 'Twitter'}",0.1566265060240964,0.1566265060240964,1.0
+140,"{'Not Discussed', 'multimodal'}",set(),"{'Not Discussed', 'multimodal'}",0.1566265060240964,0.1566265060240964,1.0
+143,"{'Not Discussed', 'precision, recall, f1-score'}",set(),"{'Not Discussed', 'precision, recall, f1-score'}",0.1566265060240964,0.1566265060240964,1.0
+13,{'accuracy'},set(),{'accuracy'},0.1566265060240964,0.1566265060240964,1.0
+494,"{'supervised', 'Disaster Related Information Filtering', 'Twitter'}",set(),"{'supervised', 'Disaster Related Information Filtering', 'Twitter'}",0.1566265060240964,0.1566265060240964,1.0
+592,"{'multimodal', 'supervised', 'Twitter'}",set(),"{'multimodal', 'supervised', 'Twitter'}",0.1566265060240964,0.1566265060240964,1.0
+929,"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",set(),"{'Not Discussed', 'Disaster Damage Assessment', 'supervised', 'image', 'CNN'}",0.1566265060240964,0.1566265060240964,1.0
+11,{'Web Mining'},set(),{'Web Mining'},0.1566265060240964,0.1566265060240964,1.0
+68,"{'precision, recall, f1-score', 'CNN'}",set(),"{'precision, recall, f1-score', 'CNN'}",0.1566265060240964,0.1566265060240964,1.0
+748,"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}",set(),"{'Not Discussed', 'supervised', 'Twitter', 'CNN'}",0.1566265060240964,0.1566265060240964,1.0
+734,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}",{'CNN'},"{'Not Discussed', 'Remote_sensing', 'image'}",0.10843373493975904,0.15517241379310345,1.2879310344827586
+299,"{'Not Discussed', 'Web database', 'CNN'}",{'CNN'},"{'Not Discussed', 'Web database'}",0.10843373493975904,0.15517241379310345,1.2879310344827586
+264,"{'Disaster Related Information Classification', 'Twitter', 'CNN'}",{'CNN'},"{'Disaster Related Information Classification', 'Twitter'}",0.10843373493975904,0.15517241379310345,1.0732758620689655
+54,"{'Web database', 'CNN'}",{'CNN'},{'Web database'},0.10843373493975904,0.15517241379310345,1.170846394984326
+719,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}",{'CNN'},"{'supervised', 'Twitter', 'Disaster Related Information Classification'}",0.10843373493975904,0.15517241379310345,1.170846394984326
+376,"{'Web database', 'supervised', 'CNN'}",{'CNN'},"{'Web database', 'supervised'}",0.10843373493975904,0.15517241379310345,1.2879310344827586
+285,"{'Not Discussed', 'Remote_sensing', 'CNN'}",{'CNN'},"{'Not Discussed', 'Remote_sensing'}",0.10843373493975904,0.15517241379310345,1.2879310344827586
+334,"{'Remote_sensing', 'supervised', 'CNN'}",{'CNN'},"{'Remote_sensing', 'supervised'}",0.10843373493975904,0.15517241379310345,1.170846394984326
+764,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}",{'CNN'},"{'Not Discussed', 'supervised', 'Web database'}",0.10843373493975904,0.15517241379310345,1.4310344827586208
+615,"{'Not Discussed', '-', 'image', 'CNN'}",{'CNN'},"{'Not Discussed', '-', 'image'}",0.10843373493975904,0.15517241379310345,1.2879310344827586
+900,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}",{'CNN'},"{'Not Discussed', 'supervised', '-', 'image'}",0.10843373493975904,0.15517241379310345,1.2879310344827586
+794,"{'Remote_sensing', 'supervised', 'image', 'CNN'}",{'CNN'},"{'Remote_sensing', 'supervised', 'image'}",0.10843373493975904,0.15517241379310345,1.170846394984326
+313,"{'Not Discussed', 'precision, recall, f1-score', 'CNN'}",{'CNN'},"{'Not Discussed', 'precision, recall, f1-score'}",0.10843373493975904,0.15517241379310345,0.9907161803713528
+341,"{'cross-entrophy', 'Twitter', 'CNN'}",{'CNN'},"{'cross-entrophy', 'Twitter'}",0.10843373493975904,0.15517241379310345,0.9907161803713528
+348,"{'multimodal', 'Twitter', 'CNN'}",{'CNN'},"{'multimodal', 'Twitter'}",0.10843373493975904,0.15517241379310345,0.9199507389162562
+824,"{'multimodal', 'supervised', 'Twitter', 'CNN'}",{'CNN'},"{'multimodal', 'supervised', 'Twitter'}",0.10843373493975904,0.15517241379310345,0.9907161803713528
+809,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}",{'CNN'},"{'cross-entrophy', 'supervised', 'Twitter'}",0.10843373493975904,0.15517241379310345,0.9907161803713528
+362,"{'Twitter', 'text', 'CNN'}",{'CNN'},"{'Twitter', 'text'}",0.10843373493975904,0.15517241379310345,0.677858439201452
+418,"{'supervised', 'text', 'CNN'}",{'CNN'},"{'supervised', 'text'}",0.10843373493975904,0.15517241379310345,0.6439655172413793
+238,"{'supervised', '-', 'image'}",{'supervised'},"{'-', 'image'}",0.14457831325301204,0.15384615384615383,1.064102564102564
+406,"{'multimodal', 'supervised', 'CNN'}",{'supervised'},"{'multimodal', 'CNN'}",0.14457831325301204,0.15384615384615383,1.064102564102564
+413,"{'supervised', 'precision, recall, f1-score', 'CNN'}",{'supervised'},"{'precision, recall, f1-score', 'CNN'}",0.14457831325301204,0.15384615384615383,0.982248520710059
+490,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}",{'supervised'},"{'Not Discussed', 'Disaster Related Information Filtering'}",0.14457831325301204,0.15384615384615383,0.982248520710059
+886,"{'Not Discussed', 'supervised', 'Twitter', 'text'}",{'supervised'},"{'Not Discussed', 'Twitter', 'text'}",0.14457831325301204,0.15384615384615383,0.9120879120879121
+560,"{'Not Discussed', 'multimodal', 'supervised'}",{'supervised'},"{'Not Discussed', 'multimodal'}",0.14457831325301204,0.15384615384615383,0.982248520710059
+567,"{'Not Discussed', 'supervised', 'precision, recall, f1-score'}",{'supervised'},"{'Not Discussed', 'precision, recall, f1-score'}",0.14457831325301204,0.15384615384615383,0.982248520710059
+765,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}",{'Not Discussed'},"{'Web database', 'supervised', 'CNN'}",0.10843373493975904,0.15,1.3833333333333333
+869,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}",{'Not Discussed'},"{'multimodal', 'supervised', 'Twitter'}",0.10843373493975904,0.15,0.9576923076923076
+129,"{'Not Discussed', 'Web Mining'}",{'Not Discussed'},{'Web Mining'},0.10843373493975904,0.15,0.9576923076923076
+314,"{'Not Discussed', 'precision, recall, f1-score', 'CNN'}",{'Not Discussed'},"{'precision, recall, f1-score', 'CNN'}",0.10843373493975904,0.15,0.9576923076923076
+616,"{'Not Discussed', '-', 'image', 'CNN'}",{'Not Discussed'},"{'-', 'image', 'CNN'}",0.10843373493975904,0.15,1.2449999999999999
+300,"{'Not Discussed', 'Web database', 'CNN'}",{'Not Discussed'},"{'Web database', 'CNN'}",0.10843373493975904,0.15,1.3833333333333333
+735,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}",{'Not Discussed'},"{'Remote_sensing', 'image', 'CNN'}",0.10843373493975904,0.15,1.2449999999999999
+286,"{'Not Discussed', 'Remote_sensing', 'CNN'}",{'Not Discussed'},"{'Remote_sensing', 'CNN'}",0.10843373493975904,0.15,1.2449999999999999
+530,"{'Not Discussed', 'Web Mining', 'supervised'}",{'Not Discussed'},"{'Web Mining', 'supervised'}",0.10843373493975904,0.15,0.9576923076923076
+537,"{'Not Discussed', 'supervised', 'Web database'}",{'Not Discussed'},"{'Web database', 'supervised'}",0.10843373493975904,0.15,1.2449999999999999
+855,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}",{'Not Discussed'},"{'supervised', 'Disaster Related Information Filtering', 'Twitter'}",0.10843373493975904,0.15,0.9576923076923076
+901,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}",{'Not Discussed'},"{'-', 'supervised', 'image', 'CNN'}",0.10843373493975904,0.15,1.2449999999999999
+77,"{'Twitter', 'CrisisMMD'}",set(),"{'Twitter', 'CrisisMMD'}",0.14457831325301204,0.14457831325301204,1.0
+235,"{'supervised', '-', 'image'}",set(),"{'-', 'supervised', 'image'}",0.14457831325301204,0.14457831325301204,1.0
+2,{'CrisisMMD'},set(),{'CrisisMMD'},0.14457831325301204,0.14457831325301204,1.0
+564,"{'Not Discussed', 'supervised', 'precision, recall, f1-score'}",set(),"{'Not Discussed', 'supervised', 'precision, recall, f1-score'}",0.14457831325301204,0.14457831325301204,1.0
+557,"{'Not Discussed', 'multimodal', 'supervised'}",set(),"{'Not Discussed', 'multimodal', 'supervised'}",0.14457831325301204,0.14457831325301204,1.0
+65,"{'multimodal', 'CNN'}",set(),"{'multimodal', 'CNN'}",0.14457831325301204,0.14457831325301204,1.0
+403,"{'multimodal', 'supervised', 'CNN'}",set(),"{'multimodal', 'supervised', 'CNN'}",0.14457831325301204,0.14457831325301204,1.0
+410,"{'supervised', 'precision, recall, f1-score', 'CNN'}",set(),"{'supervised', 'precision, recall, f1-score', 'CNN'}",0.14457831325301204,0.14457831325301204,1.0
+104,"{'Disaster Related Information Classification', 'Twitter'}",set(),"{'Disaster Related Information Classification', 'Twitter'}",0.14457831325301204,0.14457831325301204,1.0
+883,"{'Not Discussed', 'supervised', 'Twitter', 'text'}",set(),"{'Not Discussed', 'supervised', 'Twitter', 'text'}",0.14457831325301204,0.14457831325301204,1.0
+487,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}",set(),"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering'}",0.14457831325301204,0.14457831325301204,1.0
+26,"{'-', 'image'}",set(),"{'-', 'image'}",0.14457831325301204,0.14457831325301204,1.0
+85,"{'supervised', 'CrisisMMD'}",{'supervised'},{'CrisisMMD'},0.13253012048192772,0.14102564102564102,0.9754273504273505
+434,"{'supervised', 'Twitter', 'CrisisMMD'}",{'supervised'},"{'Twitter', 'CrisisMMD'}",0.13253012048192772,0.14102564102564102,0.9754273504273505
+632,"{'Not Discussed', 'supervised', '-', 'CNN'}",{'supervised'},"{'Not Discussed', '-', 'CNN'}",0.13253012048192772,0.14102564102564102,1.064102564102564
+476,"{'supervised', 'Disaster Related Information Classification', 'Twitter'}",{'supervised'},"{'Disaster Related Information Classification', 'Twitter'}",0.13253012048192772,0.14102564102564102,0.9754273504273505
+581,"{'Remote_sensing', 'supervised', 'image'}",{'supervised'},"{'Remote_sensing', 'image'}",0.13253012048192772,0.14102564102564102,0.9003944773175542
+280,"{'supervised', 'Disaster Related Information Filtering', 'CNN'}",{'supervised'},"{'Disaster Related Information Filtering', 'CNN'}",0.13253012048192772,0.14102564102564102,1.064102564102564
+157,"{'Remote_sensing', 'supervised'}",{'supervised'},{'Remote_sensing'},0.13253012048192772,0.14102564102564102,0.9003944773175542
+83,"{'supervised', 'CrisisMMD'}",set(),"{'supervised', 'CrisisMMD'}",0.13253012048192772,0.13253012048192772,1.0
+578,"{'Remote_sensing', 'supervised', 'image'}",set(),"{'Remote_sensing', 'supervised', 'image'}",0.13253012048192772,0.13253012048192772,1.0
+155,"{'Remote_sensing', 'supervised'}",set(),"{'Remote_sensing', 'supervised'}",0.13253012048192772,0.13253012048192772,1.0
+101,"{'Not Discussed', 'Disaster Related Information Classification'}",set(),"{'Not Discussed', 'Disaster Related Information Classification'}",0.13253012048192772,0.13253012048192772,1.0
+200,"{'Not Discussed', '-', 'CNN'}",set(),"{'Not Discussed', '-', 'CNN'}",0.13253012048192772,0.13253012048192772,1.0
+12,{'Web database'},set(),{'Web database'},0.13253012048192772,0.13253012048192772,1.0
+473,"{'supervised', 'Disaster Related Information Classification', 'Twitter'}",set(),"{'supervised', 'Twitter', 'Disaster Related Information Classification'}",0.13253012048192772,0.13253012048192772,1.0
+628,"{'Not Discussed', 'supervised', '-', 'CNN'}",set(),"{'Not Discussed', 'supervised', '-', 'CNN'}",0.13253012048192772,0.13253012048192772,1.0
+431,"{'supervised', 'Twitter', 'CrisisMMD'}",set(),"{'supervised', 'Twitter', 'CrisisMMD'}",0.13253012048192772,0.13253012048192772,1.0
+277,"{'supervised', 'Disaster Related Information Filtering', 'CNN'}",set(),"{'supervised', 'Disaster Related Information Filtering', 'CNN'}",0.13253012048192772,0.13253012048192772,1.0
+38,"{'Disaster Related Information Filtering', 'CNN'}",set(),"{'Disaster Related Information Filtering', 'CNN'}",0.13253012048192772,0.13253012048192772,1.0
+167,"{'precision, recall, f1-score', 'Twitter'}",set(),"{'precision, recall, f1-score', 'Twitter'}",0.13253012048192772,0.13253012048192772,1.0
+602,"{'supervised', 'precision, recall, f1-score', 'Twitter'}",{'supervised'},"{'precision, recall, f1-score', 'Twitter'}",0.12048192771084337,0.1282051282051282,0.9673659673659672
+273,"{'supervised', 'Disaster Related Information Classification', 'CNN'}",{'supervised'},"{'Disaster Related Information Classification', 'CNN'}",0.12048192771084337,0.1282051282051282,1.064102564102564
+546,"{'Not Discussed', 'supervised', 'accuracy'}",{'supervised'},"{'Not Discussed', 'accuracy'}",0.12048192771084337,0.1282051282051282,1.064102564102564
+371,"{'Web Mining', 'supervised', 'CNN'}",{'supervised'},"{'Web Mining', 'CNN'}",0.12048192771084337,0.1282051282051282,1.064102564102564
+385,"{'accuracy', 'supervised', 'CNN'}",{'supervised'},"{'accuracy', 'CNN'}",0.12048192771084337,0.1282051282051282,1.064102564102564
+100,"{'supervised', 'Disaster Event Detection'}",{'supervised'},{'Disaster Event Detection'},0.12048192771084337,0.1282051282051282,1.064102564102564
+181,"{'Web database', 'supervised'}",{'supervised'},{'Web database'},0.12048192771084337,0.1282051282051282,0.9673659673659672
+469,"{'Not Discussed', 'supervised', 'Disaster Related Information Classification'}",{'supervised'},"{'Not Discussed', 'Disaster Related Information Classification'}",0.12048192771084337,0.1282051282051282,0.9673659673659672
+647,"{'supervised', '-', 'image', 'CNN'}",{'supervised'},"{'-', 'image', 'CNN'}",0.12048192771084337,0.1282051282051282,1.064102564102564
+662,"{'Not Discussed', 'supervised', '-', 'image'}",{'supervised'},"{'Not Discussed', '-', 'image'}",0.12048192771084337,0.1282051282051282,1.064102564102564
+382,"{'accuracy', 'supervised', 'CNN'}",set(),"{'accuracy', 'supervised', 'CNN'}",0.12048192771084337,0.12048192771084337,1.0
+35,"{'Disaster Related Information Classification', 'CNN'}",set(),"{'Disaster Related Information Classification', 'CNN'}",0.12048192771084337,0.12048192771084337,1.0
+131,"{'Not Discussed', 'Web database'}",set(),"{'Not Discussed', 'Web database'}",0.12048192771084337,0.12048192771084337,1.0
+10,{'Twitter API'},set(),{'Twitter API'},0.12048192771084337,0.12048192771084337,1.0
+466,"{'Not Discussed', 'supervised', 'Disaster Related Information Classification'}",set(),"{'Not Discussed', 'supervised', 'Disaster Related Information Classification'}",0.12048192771084337,0.12048192771084337,1.0
+134,"{'Not Discussed', 'accuracy'}",set(),"{'Not Discussed', 'accuracy'}",0.12048192771084337,0.12048192771084337,1.0
+599,"{'supervised', 'precision, recall, f1-score', 'Twitter'}",set(),"{'supervised', 'Twitter', 'precision, recall, f1-score'}",0.12048192771084337,0.12048192771084337,1.0
+207,"{'-', 'image', 'CNN'}",set(),"{'-', 'image', 'CNN'}",0.12048192771084337,0.12048192771084337,1.0
+74,"{'text', 'CNN'}",set(),"{'CNN', 'text'}",0.12048192771084337,0.12048192771084337,1.0
+122,"{'Not Discussed', 'Remote_sensing'}",set(),"{'Not Discussed', 'Remote_sensing'}",0.12048192771084337,0.12048192771084337,1.0
+98,"{'supervised', 'Disaster Event Detection'}",set(),"{'supervised', 'Disaster Event Detection'}",0.12048192771084337,0.12048192771084337,1.0
+44,"{'Remote_sensing', 'CNN'}",set(),"{'Remote_sensing', 'CNN'}",0.12048192771084337,0.12048192771084337,1.0
+368,"{'Web Mining', 'supervised', 'CNN'}",set(),"{'Web Mining', 'supervised', 'CNN'}",0.12048192771084337,0.12048192771084337,1.0
+326,"{'Remote_sensing', 'image', 'CNN'}",set(),"{'Remote_sensing', 'image', 'CNN'}",0.12048192771084337,0.12048192771084337,1.0
+4,{'Disaster Event Detection'},set(),{'Disaster Event Detection'},0.12048192771084337,0.12048192771084337,1.0
+179,"{'Web database', 'supervised'}",set(),"{'Web database', 'supervised'}",0.12048192771084337,0.12048192771084337,1.0
+501,"{'Not Discussed', 'Remote_sensing', 'image'}",set(),"{'Not Discussed', 'Remote_sensing', 'image'}",0.12048192771084337,0.12048192771084337,1.0
+658,"{'Not Discussed', 'supervised', '-', 'image'}",set(),"{'Not Discussed', 'supervised', '-', 'image'}",0.12048192771084337,0.12048192771084337,1.0
+270,"{'supervised', 'Disaster Related Information Classification', 'CNN'}",set(),"{'CNN', 'supervised', 'Disaster Related Information Classification'}",0.12048192771084337,0.12048192771084337,1.0
+508,"{'Not Discussed', 'multimodal', 'Twitter'}",set(),"{'Not Discussed', 'multimodal', 'Twitter'}",0.12048192771084337,0.12048192771084337,1.0
+543,"{'Not Discussed', 'supervised', 'accuracy'}",set(),"{'Not Discussed', 'supervised', 'accuracy'}",0.12048192771084337,0.12048192771084337,1.0
+56,"{'accuracy', 'CNN'}",set(),"{'accuracy', 'CNN'}",0.12048192771084337,0.12048192771084337,1.0
+221,"{'Not Discussed', '-', 'image'}",set(),"{'Not Discussed', '-', 'image'}",0.12048192771084337,0.12048192771084337,1.0
+50,"{'Web Mining', 'CNN'}",set(),"{'Web Mining', 'CNN'}",0.12048192771084337,0.12048192771084337,1.0
+643,"{'supervised', '-', 'image', 'CNN'}",set(),"{'supervised', '-', 'image', 'CNN'}",0.12048192771084337,0.12048192771084337,1.0
+480,"{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}",set(),"{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}",0.12048192771084337,0.12048192771084337,1.0
+857,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}",{'supervised'},"{'Not Discussed', 'Disaster Related Information Filtering', 'Twitter'}",0.10843373493975904,0.11538461538461538,0.9576923076923076
+336,"{'Remote_sensing', 'supervised', 'CNN'}",{'supervised'},"{'Remote_sensing', 'CNN'}",0.10843373493975904,0.11538461538461538,0.9576923076923076
+872,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}",{'supervised'},"{'Not Discussed', 'multimodal', 'Twitter'}",0.10843373493975904,0.11538461538461538,0.9576923076923076
+419,"{'supervised', 'text', 'CNN'}",{'supervised'},"{'CNN', 'text'}",0.10843373493975904,0.11538461538461538,0.9576923076923076
+797,"{'Remote_sensing', 'supervised', 'image', 'CNN'}",{'supervised'},"{'Remote_sensing', 'image', 'CNN'}",0.10843373493975904,0.11538461538461538,0.9576923076923076
+539,"{'Not Discussed', 'supervised', 'Web database'}",{'supervised'},"{'Not Discussed', 'Web database'}",0.10843373493975904,0.11538461538461538,0.9576923076923076
+827,"{'multimodal', 'supervised', 'Twitter', 'CNN'}",{'supervised'},"{'multimodal', 'Twitter', 'CNN'}",0.10843373493975904,0.11538461538461538,1.064102564102564
+767,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}",{'supervised'},"{'Not Discussed', 'Web database', 'CNN'}",0.10843373493975904,0.11538461538461538,1.064102564102564
+378,"{'Web database', 'supervised', 'CNN'}",{'supervised'},"{'Web database', 'CNN'}",0.10843373493975904,0.11538461538461538,1.064102564102564
+722,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}",{'supervised'},"{'Disaster Related Information Classification', 'Twitter', 'CNN'}",0.10843373493975904,0.11538461538461538,1.064102564102564
+812,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}",{'supervised'},"{'cross-entrophy', 'Twitter', 'CNN'}",0.10843373493975904,0.11538461538461538,1.064102564102564
+532,"{'Not Discussed', 'Web Mining', 'supervised'}",{'supervised'},"{'Not Discussed', 'Web Mining'}",0.10843373493975904,0.11538461538461538,1.064102564102564
+903,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}",{'supervised'},"{'Not Discussed', '-', 'image', 'CNN'}",0.10843373493975904,0.11538461538461538,1.064102564102564
+53,"{'Web database', 'CNN'}",set(),"{'Web database', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+119,"{'Disaster Related Information Filtering', 'text'}",set(),"{'Disaster Related Information Filtering', 'text'}",0.10843373493975904,0.10843373493975904,1.0
+298,"{'Not Discussed', 'Web database', 'CNN'}",set(),"{'Not Discussed', 'Web database', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+284,"{'Not Discussed', 'Remote_sensing', 'CNN'}",set(),"{'Not Discussed', 'Remote_sensing', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+263,"{'Disaster Related Information Classification', 'Twitter', 'CNN'}",set(),"{'Disaster Related Information Classification', 'Twitter', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+536,"{'Not Discussed', 'supervised', 'Web database'}",set(),"{'Not Discussed', 'supervised', 'Web database'}",0.10843373493975904,0.10843373493975904,1.0
+89,"{'Remote_sensing', 'Disaster Damage Assessment'}",set(),"{'Remote_sensing', 'Disaster Damage Assessment'}",0.10843373493975904,0.10843373493975904,1.0
+333,"{'Remote_sensing', 'supervised', 'CNN'}",set(),"{'Remote_sensing', 'supervised', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+417,"{'supervised', 'text', 'CNN'}",set(),"{'CNN', 'supervised', 'text'}",0.10843373493975904,0.10843373493975904,1.0
+80,"{'multimodal', 'CrisisMMD'}",set(),"{'multimodal', 'CrisisMMD'}",0.10843373493975904,0.10843373493975904,1.0
+312,"{'Not Discussed', 'precision, recall, f1-score', 'CNN'}",set(),"{'Not Discussed', 'precision, recall, f1-score', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+340,"{'cross-entrophy', 'Twitter', 'CNN'}",set(),"{'cross-entrophy', 'Twitter', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+452,"{'Remote_sensing', 'Disaster Damage Assessment', 'image'}",set(),"{'Remote_sensing', 'Disaster Damage Assessment', 'image'}",0.10843373493975904,0.10843373493975904,1.0
+347,"{'multimodal', 'Twitter', 'CNN'}",set(),"{'multimodal', 'Twitter', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+529,"{'Not Discussed', 'Web Mining', 'supervised'}",set(),"{'Not Discussed', 'Web Mining', 'supervised'}",0.10843373493975904,0.10843373493975904,1.0
+763,"{'Not Discussed', 'supervised', 'Web database', 'CNN'}",set(),"{'Not Discussed', 'supervised', 'Web database', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+898,"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}",set(),"{'Not Discussed', 'supervised', '-', 'image', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+733,"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}",set(),"{'Not Discussed', 'Remote_sensing', 'image', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+424,"{'multimodal', 'Twitter', 'CrisisMMD'}",set(),"{'multimodal', 'Twitter', 'CrisisMMD'}",0.10843373493975904,0.10843373493975904,1.0
+853,"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}",set(),"{'Not Discussed', 'supervised', 'Disaster Related Information Filtering', 'Twitter'}",0.10843373493975904,0.10843373493975904,1.0
+868,"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}",set(),"{'Not Discussed', 'multimodal', 'supervised', 'Twitter'}",0.10843373493975904,0.10843373493975904,1.0
+823,"{'multimodal', 'supervised', 'Twitter', 'CNN'}",set(),"{'multimodal', 'supervised', 'Twitter', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+793,"{'Remote_sensing', 'supervised', 'image', 'CNN'}",set(),"{'Remote_sensing', 'supervised', 'image', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+808,"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}",set(),"{'cross-entrophy', 'supervised', 'Twitter', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+613,"{'Not Discussed', '-', 'image', 'CNN'}",set(),"{'Not Discussed', '-', 'image', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+158,"{'Twitter API', 'Twitter'}",set(),"{'Twitter API', 'Twitter'}",0.10843373493975904,0.10843373493975904,1.0
+128,"{'Not Discussed', 'Web Mining'}",set(),"{'Not Discussed', 'Web Mining'}",0.10843373493975904,0.10843373493975904,1.0
+375,"{'Web database', 'supervised', 'CNN'}",set(),"{'Web database', 'supervised', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
+361,"{'Twitter', 'text', 'CNN'}",set(),"{'CNN', 'Twitter', 'text'}",0.10843373493975904,0.10843373493975904,1.0
+718,"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}",set(),"{'supervised', 'Disaster Related Information Classification', 'Twitter', 'CNN'}",0.10843373493975904,0.10843373493975904,1.0
